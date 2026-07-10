@@ -1,0 +1,16 @@
+---
+title: "News"
+listing:
+  contents: news
+  sort: "date desc"
+  type: default
+  categories: false
+  date-format: "MMMM YYYY"
+  feed: true
+page-layout: article
+toc: false
+---
+
+<p class="note">Updates on publications, grants, talks, and lab milestones. New items
+are added as individual files in the <code>news/</code> folder — this page and the
+homepage summary update automatically.</p>

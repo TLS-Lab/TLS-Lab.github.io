@@ -1,0 +1,33 @@
+meta:
+  name: "Usman Ahmed"
+
+color:
+  palette:
+    ink: "#111111"
+    slate: "#5c5c5c"
+    navy: "#14213d"
+    hairline: "#dddddd"
+    paper: "#ffffff"
+  foreground: ink
+  background: paper
+  primary: navy
+  secondary: slate
+  link: navy
+
+typography:
+  fonts:
+    - family: "Source Serif 4"
+      source: google
+      weight: [400, 500, 600]
+    - family: "Inter"
+      source: google
+      weight: [400, 500, 600]
+  base:
+    family: "Inter"
+    size: 1rem
+  headings:
+    family: "Source Serif 4"
+    weight: 500
+  link:
+    weight: 500
+    decoration: none

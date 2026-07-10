@@ -1,0 +1,44 @@
+---
+title: "Projects"
+toc: false
+page-layout: article
+---
+
+<p class="note">Selected funded research projects. See <a href="publications.qmd">Publications</a>
+for related papers and <a href="research.qmd">Research</a> for broader thematic context.</p>
+
+<div class="section-label">Ongoing</div>
+
+{{< include _includes/featured-projects.qmd >}}
+
+<div class="section-label" style="margin-top: 2.5rem;">Completed</div>
+
+::: {.row-list}
+::: {.row}
+::: {.row-meta}
+2023–2024
+[University Seed Grant Program]
+:::
+::: {.row-content}
+### Mixed Autonomy Traffic at Signalized Intersections <span class="tag">Completed</span>
+Simulation-based study quantifying delay and safety trade-offs as automated-vehicle
+market penetration increases at urban signalized intersections. Principal Investigator.
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+2022–2023
+[City Department of Transportation]
+:::
+::: {.row-content}
+### Curb Management for Urban Freight <span class="tag">Completed</span>
+Analyzed curb-use conflicts driven by growing e-commerce delivery demand and proposed a
+dynamic curb-allocation framework, piloted in [Neighborhood/District]. Co-Investigator.
+:::
+:::
+:::
+
+<hr class="rule">
+
+**Interested in collaborating or sponsoring a project?** [Get in touch](contact.qmd).

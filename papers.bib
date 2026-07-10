@@ -1,0 +1,84 @@
+% Single source of truth for the publication record.
+%
+% Add a new entry, run `quarto preview` / `quarto render`, and it is
+% automatically formatted into _includes/recent-publications.qmd and the
+% Journal Articles / Conference Proceedings / Reports & Working Papers
+% sections of publications.qmd (see _build/generate_publications.py).
+%
+% Supported entry types: @article, @inproceedings, @techreport, @phdthesis.
+% Custom fields (beyond standard BibTeX) recognized by the generator:
+%   pdf, doi, data, code, slides  -- URLs rendered as links under each entry
+%   preparedfor                   -- sponsoring org, for @techreport entries
+%   recent = {true}               -- feature this entry in the "Recent" list
+
+@article{ghizzawi2026parking,
+  title={Parking patterns of last-mile delivery vehicles: a comparison between light-duty trucks and electric cargo tricycles in downtown Toronto},
+  author={Ghizzawi, Farah and Ahmed, Usman and Roorda, Matthew J},
+  journal={Transportation Research Interdisciplinary Perspectives},
+  volume={37},
+  pages={101941},
+  year={2026},
+  publisher={Elsevier}
+}
+
+
+
+@inproceedings{ahmed2025mixedautonomy,
+  author    = {Ahmed, U. and Garcia, M.},
+  title     = {Evaluating mixed autonomy traffic at signalized intersections},
+  booktitle = {Proceedings of the 104th Transportation Research Board Annual Meeting},
+  year      = {2025},
+  address   = {Washington, D.C.},
+  pdf       = {#},
+  slides    = {#},
+  recent    = {true}
+}
+
+@article{lee2025equity,
+  author    = {Lee, K. and Ahmed, U. and Patel, R.},
+  title     = {Equity impacts of microtransit expansion in mid-sized cities},
+  journal   = {Journal of Transport Geography},
+  year      = {2025},
+  volume    = {108},
+  pages     = {103567},
+  doi       = {10.1016/j.jtrangeo.2025.103567},
+  pdf       = {#},
+  recent    = {true}
+}
+
+@article{ahmed2024bayesian,
+  author    = {Ahmed, U. and Chen, L.},
+  title     = {A Bayesian framework for real-time crash risk estimation on urban freeways},
+  journal   = {Accident Analysis \& Prevention},
+  year      = {2024},
+  volume    = {195},
+  pages     = {107345},
+  doi       = {10.1016/j.aap.2024.107345},
+  pdf       = {#},
+  data      = {#}
+}
+
+@inproceedings{novak2023curbspace,
+  author    = {Novak, S. and Ahmed, U.},
+  title     = {Curb-space allocation under growing e-commerce delivery demand},
+  booktitle = {Proceedings of the IEEE Intelligent Transportation Systems Conference},
+  year      = {2023},
+  address   = {Bilbao, Spain},
+  pdf       = {#}
+}
+
+@techreport{ahmed2025workzone,
+  author       = {Ahmed, U.},
+  title        = {Work-zone safety with connected-vehicle data: Final report},
+  year         = {2025},
+  preparedfor  = {[State Department of Transportation]},
+  pdf          = {#}
+}
+
+@phdthesis{ahmed2022dissertation,
+  author  = {Ahmed, U.},
+  title   = {[Dissertation Title]},
+  school  = {[Ph.D. Institution]},
+  year    = {2022},
+  pdf     = {#}
+}

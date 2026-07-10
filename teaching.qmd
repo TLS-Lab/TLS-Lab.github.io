@@ -1,0 +1,77 @@
+---
+title: "Teaching"
+toc: false
+page-layout: article
+---
+
+## Teaching Philosophy
+
+I aim to connect transportation engineering theory to problems students can see in their
+own cities — congestion, crashes, and unequal access to mobility. My courses combine
+foundational modeling with hands-on work using real traffic and transit datasets, so
+students leave able to apply these methods in practice, not just on exams.
+
+<hr class="rule">
+
+<div class="section-label">Courses Taught</div>
+
+::: {.row-list}
+::: {.row}
+::: {.row-meta}
+Fall 2024, Fall 2025
+Undergraduate
+:::
+::: {.row-content}
+### CE 4xx — Transportation Systems Analysis
+Introduction to traffic flow theory, capacity analysis, and transportation planning
+fundamentals.
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+Spring 2025, Spring 2026
+Graduate
+:::
+::: {.row-content}
+### CE 5xx — Traffic Flow Theory & Simulation
+Macroscopic and microscopic traffic modeling, calibration, and simulation using SUMO
+and VISSIM.
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+Fall 2025
+Graduate Seminar
+:::
+::: {.row-content}
+### CE 6xx — Data-Driven Transportation Safety
+Statistical and machine-learning approaches to crash prediction and proactive safety
+management, with a semester-long applied project.
+:::
+:::
+:::
+
+<hr class="rule">
+
+::: {.split}
+::: {}
+### Student Mentoring — Ph.D.
+[Student Name] — *[Dissertation Topic]* (expected [Year])
+[Student Name] — *[Dissertation Topic]* (expected [Year])
+
+### Student Mentoring — M.S.
+[Student Name] — *[Thesis Topic]*
+:::
+
+::: {}
+### Alumni
+[Alumnus Name], Ph.D. [Year] — now at [Placement]
+[Alumnus Name], M.S. [Year] — now at [Placement]
+
+### Recruiting
+I am recruiting new Ph.D. and M.S. students interested in traffic systems, safety
+analytics, and CAV technologies. See [Contact](contact.qmd) for how to apply.
+:::
+:::

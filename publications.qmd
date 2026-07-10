@@ -1,0 +1,30 @@
+---
+title: "Publications"
+toc: false
+page-layout: article
+---
+
+<!-- Entries below are generated from papers.bib -- add new papers there,
+     not here. See _build/generate_publications.py. -->
+
+<p class="note">My name is in <span class="pub-self">bold</span> within author lists. See my
+<a href="https://scholar.google.com">Google Scholar</a> profile for citation metrics;
+contact me for a copy of any paper not linked below.</p>
+
+<div class="section-label">Recent</div>
+
+{{< include _includes/recent-publications.qmd >}}
+
+<hr class="rule">
+
+## Journal Articles
+
+{{< include _includes/pub-journal-articles.qmd >}}
+
+## Conference Proceedings
+
+{{< include _includes/pub-conference-proceedings.qmd >}}
+
+## Reports & Working Papers
+
+{{< include _includes/pub-reports.qmd >}}

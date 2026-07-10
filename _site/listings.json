@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/2026-06-15-grant-awarded.html",
+      "/news/2026-04-02-paper-accepted.html",
+      "/news/2026-01-12-trb-talk.html",
+      "/news/2025-09-01-new-phd-student.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2026-06-15-grant-awarded.html",
+      "/news/2026-04-02-paper-accepted.html",
+      "/news/2026-01-12-trb-talk.html",
+      "/news/2025-09-01-new-phd-student.html"
+    ]
+  }
+]

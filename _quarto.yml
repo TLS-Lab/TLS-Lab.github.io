@@ -1,0 +1,75 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "news/"
+  pre-render:
+    - _build/generate_publications.py
+
+website:
+  title: "Usman Ahmed"
+  description: "Transportation researcher — traffic systems, safety, and mobility."
+  site-url: "https://example.com"
+  page-navigation: true
+  back-to-top-navigation: false
+  bread-crumbs: false
+
+  navbar:
+    title: "Usman Ahmed"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: news.qmd
+        text: News
+    right:
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    left: |
+      &copy; 2026 Usman Ahmed
+    center: |
+      Department of Civil & Environmental Engineering, [University Name]
+    right:
+      - text: "Scholar"
+        href: https://scholar.google.com
+      - text: "GitHub"
+        href: https://github.com
+      - text: "LinkedIn"
+        href: https://linkedin.com
+    border: true
+
+  search:
+    location: navbar
+    type: overlay
+
+format:
+  html:
+    theme:
+      - litera
+      - _brand.yml
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    link-external-icon: false
+    link-external-newwindow: true
+    grid:
+      body-width: 880px
+    fontsize: 1.05rem
+    linestretch: 1.7
+
+execute:
+  freeze: auto

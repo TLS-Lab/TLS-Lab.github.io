@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Usman Ahmed</title>
+<link>https://example.com/news.html</link>
+<atom:link href="https://example.com/news.xml" rel="self" type="application/rss+xml"/>
+<description>Transportation researcher — traffic systems, safety, and mobility.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Mon, 15 Jun 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>NSF grant awarded for microtransit equity research</title>
+  <link>https://example.com/news/2026-06-15-grant-awarded.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Delighted to share that our project, <em>Equitable Microtransit Design for Mid-Sized Cities</em>, has been awarded funding by the National Science Foundation (Award #0000000). The three-year project will study on-demand microtransit service design in partnership with [Regional Transit Agency]. See the <a href="../projects.html">Projects</a> page for details.</p>
+
+
+
+ ]]></description>
+  <guid>https://example.com/news/2026-06-15-grant-awarded.html</guid>
+  <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Paper accepted in Transportation Research Part C</title>
+  <link>https://example.com/news/2026-04-02-paper-accepted.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our paper, “Corridor-level safety analytics using connected-vehicle trajectory data,” has been accepted for publication in <em>Transportation Research Part C: Emerging Technologies</em>. Congratulations to co-authors Jane Doe and Alex Smith. See <a href="../publications.html">Publications</a> for the full citation.</p>
+
+
+
+ ]]></description>
+  <guid>https://example.com/news/2026-04-02-paper-accepted.html</guid>
+  <pubDate>Thu, 02 Apr 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Invited talk at TRB Annual Meeting</title>
+  <link>https://example.com/news/2026-01-12-trb-talk.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I gave an invited talk, “Mixed Autonomy Traffic at Signalized Intersections,” at the 105th Transportation Research Board (TRB) Annual Meeting in Washington, D.C. Slides are linked from the <a href="../publications.html">Publications</a> page.</p>
+
+
+
+ ]]></description>
+  <guid>https://example.com/news/2026-01-12-trb-talk.html</guid>
+  <pubDate>Mon, 12 Jan 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcoming a new Ph.D. student to the Mobility Systems Lab</title>
+  <link>https://example.com/news/2025-09-01-new-phd-student.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The lab welcomes [Student Name], who joins as a Ph.D.&nbsp;student this fall to work on data-driven transportation safety analytics. Welcome!</p>
+
+
+
+ ]]></description>
+  <guid>https://example.com/news/2025-09-01-new-phd-student.html</guid>
+  <pubDate>Mon, 01 Sep 2025 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

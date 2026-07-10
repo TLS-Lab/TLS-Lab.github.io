@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Transportation and Logistics Systems Lab",
+    "section": "",
+    "text": "Transportation Research\n\n\nUsman Ahmed\n\nResearch Assistant Professor\n\n\nUT-Oak Ridge Innovation Institute, University of Tennessee, Knoxville\n\n\nI study traffic operations, transportation safety, and the integration of connected and automated vehicles into everyday mobility — using data and modeling to make transportation systems safer, more efficient, and more equitable.\n\n\nDownload CV Google Scholar\n\n\n\n\nPortrait placeholder(images/profile.jpg)\n\n\n\n\n\n\nResearch Areas\n\n\n\n\nTraffic Flow & Control\nModeling and controlling traffic dynamics on freeways and arterials, including signal timing and mixed human/automated traffic.\n\n\nTransportation Safety\nStatistical and machine-learning methods for crash prediction and proactive safety management.\n\n\nConnected & Automated Vehicles\nEvaluating how CV/AV technologies affect network performance and safety during the transition period.\n\n\nTransit Equity\nMeasuring and improving access to public transit for underserved populations.\n\n\nView all research areas →\n\n\n\n\n\nFeatured Projects\n\nAll projects →\n\n\n\n\n\n2025–2027 [State Department of Transportation]\n\n\nConnected-Vehicle Data for Work-Zone Safety Ongoing\nDeveloping real-time work-zone risk indicators from connected-vehicle trajectory and speed data, with a pilot deployment on [Highway/Corridor Name]. Principal Investigator.\n\n\n\n\n2024–2027 NSF Award #0000000\n\n\nEquitable Microtransit Design for Mid-Sized Cities Ongoing\nInvestigating how on-demand microtransit service design affects access for low-income and transit-dependent riders in three mid-sized U.S. cities. Co-Principal Investigator.\n\n\n\n\n\n\n\n\nRecent Publications\n\nAll publications →\n\n\n\n\n2025\n\n\nLee, K., Ahmed, U., & Patel, R. (2025). Equity impacts of microtransit expansion in mid-sized cities. Journal of Transport Geography, 108, 103567.\n\n\nPDF DOI\n\n\n\n\n2025\n\n\nAhmed, U. & Garcia, M. (2025). Evaluating mixed autonomy traffic at signalized intersections. Proceedings of the 104th Transportation Research Board Annual Meeting, Washington, D.C.\n\n\nPDF Slides\n\n\n\n\n\n\n\n\n\nLatest News\n\nAll news →\n\n\n\n\n\n\n\ndate\n\n\n\ntitle\n\n\n\n\n\n\n\n\nJune 2026\n\n\nNSF grant awarded for microtransit equity research\n\n\n\n\n\n\nApril 2026\n\n\nPaper accepted in Transportation Research Part C\n\n\n\n\n\n\nJanuary 2026\n\n\nInvited talk at TRB Annual Meeting\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research develops data-driven methods to make transportation systems safer, more efficient, and more equitable. Below are the main themes my lab works on; see Projects for active and past funded work, and Publications for the resulting papers.\n\n\n\nTraffic Flow Theory & Control\nModeling and controlling traffic dynamics on freeways and arterials, including signal timing, ramp metering, and macroscopic/microscopic simulation of mixed human-driven and automated traffic.\n\n\nTransportation Safety Analytics\nStatistical and machine-learning methods for crash prediction, near-miss detection, and proactive safety management using naturalistic driving and infrastructure sensor data.\n\n\nConnected & Automated Vehicles\nEvaluating how connected-vehicle (CV) and automated-vehicle (AV) technologies affect network performance, safety, and energy use, with a focus on transition-period challenges.\n\n\nTransit Equity & Accessibility\nMeasuring and improving access to public transit for underserved populations, combining GTFS data, land-use models, and accessibility metrics to inform service planning.\n\n\nFreight & Urban Logistics\nUnderstanding last-mile delivery, curb management, and freight network resilience in growing urban areas.\n\n\nApplied Machine Learning for Mobility Data\nDeveloping interpretable ML methods for large-scale mobility datasets, including probe-vehicle data, video-derived trajectories, and mobile-phone location data.\n\n\n\n\n\nMethods & Tools\nMy group works with a mix of field data collection, high-fidelity traffic simulation (e.g., SUMO, VISSIM), statistical modeling, and machine learning. We prioritize reproducible, open-source workflows — code for select projects is available on GitHub.\n\n\nCollaborations\nI collaborate with researchers in computer science, urban planning, and public health, as well as with public-sector partners including [State DOT], [Regional Transit Agency], and [City Department of Transportation]. Get in touch about collaborating."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Selected funded research projects. See Publications for related papers and Research for broader thematic context.\n\n\nOngoing\n\n\n\n\n\n2025–2027 [State Department of Transportation]\n\n\nConnected-Vehicle Data for Work-Zone Safety Ongoing\nDeveloping real-time work-zone risk indicators from connected-vehicle trajectory and speed data, with a pilot deployment on [Highway/Corridor Name]. Principal Investigator.\n\n\n\n\n2024–2027 NSF Award #0000000\n\n\nEquitable Microtransit Design for Mid-Sized Cities Ongoing\nInvestigating how on-demand microtransit service design affects access for low-income and transit-dependent riders in three mid-sized U.S. cities. Co-Principal Investigator.\n\n\n\n\nCompleted\n\n\n\n\n2023–2024 [University Seed Grant Program]\n\n\nMixed Autonomy Traffic at Signalized Intersections Completed\nSimulation-based study quantifying delay and safety trade-offs as automated-vehicle market penetration increases at urban signalized intersections. Principal Investigator.\n\n\n\n\n2022–2023 [City Department of Transportation]\n\n\nCurb Management for Urban Freight Completed\nAnalyzed curb-use conflicts driven by growing e-commerce delivery demand and proposed a dynamic curb-allocation framework, piloted in [Neighborhood/District]. Co-Investigator.\n\n\n\n\nInterested in collaborating or sponsoring a project? Get in touch."
+  },
+  {
+    "objectID": "news/2026-04-02-paper-accepted.html",
+    "href": "news/2026-04-02-paper-accepted.html",
+    "title": "Paper accepted in Transportation Research Part C",
+    "section": "",
+    "text": "Our paper, “Corridor-level safety analytics using connected-vehicle trajectory data,” has been accepted for publication in Transportation Research Part C: Emerging Technologies. Congratulations to co-authors Jane Doe and Alex Smith. See Publications for the full citation."
+  },
+  {
+    "objectID": "news/2025-09-01-new-phd-student.html",
+    "href": "news/2025-09-01-new-phd-student.html",
+    "title": "Welcoming a new Ph.D. student to the Mobility Systems Lab",
+    "section": "",
+    "text": "The lab welcomes [Student Name], who joins as a Ph.D. student this fall to work on data-driven transportation safety analytics. Welcome!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF\n\nThe PDF above is the authoritative, up-to-date CV. The summary below is for quick reference — replace files/Usman_Ahmed_CV.pdf with your actual file.\n\n\n\nAcademic Appointments\n\n\n\n\n2023–present\n\n\nAssistant Professor\nDepartment of Civil & Environmental Engineering, [University Name]\n\n\n\n\n2021–2023\n\n\nPostdoctoral Researcher\n[Institution]\n\n\n\n\nEducation\n\n\n\n\n[Year]\n\n\nPh.D., Civil Engineering — [Ph.D. Institution]\n\n\n\n\n[Year]\n\n\nM.S., Transportation Engineering — [M.S. Institution]\n\n\n\n\n[Year]\n\n\nB.S., Civil Engineering — [B.S. Institution]\n\n\n\n\nHonors & Awards\n\n\n\n\n[Year]\n\n\n[Award Name] — [Awarding Body]\n\n\n\n\n[Year]\n\n\n[Dissertation/Thesis Award] — [Institution]\n\n\n\n\nGrants & Funding\n\n\nSee Projects for full descriptions.\n\n\n\n\n\n2025–2027 [State Department of Transportation]\n\n\nConnected-Vehicle Data for Work-Zone Safety Ongoing\nDeveloping real-time work-zone risk indicators from connected-vehicle trajectory and speed data, with a pilot deployment on [Highway/Corridor Name]. Principal Investigator.\n\n\n\n\n2024–2027 NSF Award #0000000\n\n\nEquitable Microtransit Design for Mid-Sized Cities Ongoing\nInvestigating how on-demand microtransit service design affects access for low-income and transit-dependent riders in three mid-sized U.S. cities. Co-Principal Investigator.\n\n\n\n\nSelected Publications\n\n\nSee Publications for the full list.\n\n\n\n\n2025\n\n\nLee, K., Ahmed, U., & Patel, R. (2025). Equity impacts of microtransit expansion in mid-sized cities. Journal of Transport Geography, 108, 103567.\n\n\nPDF DOI\n\n\n\n\n2025\n\n\nAhmed, U. & Garcia, M. (2025). Evaluating mixed autonomy traffic at signalized intersections. Proceedings of the 104th Transportation Research Board Annual Meeting, Washington, D.C.\n\n\nPDF Slides\n\n\n\n\n\nTeaching\n\n\nSee Teaching for course descriptions and student mentoring — CE 4xx Transportation Systems Analysis, CE 5xx Traffic Flow Theory & Simulation, CE 6xx Data-Driven Transportation Safety.\n\n\nProfessional Service\n\n\nMember, Transportation Research Board (TRB) Committee on [Committee Name]\nReviewer: Transportation Research Part C, Accident Analysis & Prevention, Journal of Transportation Engineering\nSession Chair, [Conference Name], [Year]\n\n\nSkills\n\nProgramming — Python, R, SQL Simulation — SUMO, VISSIM, Aimsun Other — GIS, GTFS/transit data pipelines, causal inference, machine learning"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Usman Ahmed is an Assistant Professor in the Department of Civil & Environmental Engineering at [University Name], where he directs the Mobility Systems Lab. His research focuses on traffic operations, transportation safety analytics, and the integration of connected and automated vehicle (CAV) technologies into real-world transportation networks. His work has been supported by [Funding Agencies, e.g., NSF, USDOT, State DOT] and published in leading journals including Transportation Research Part C, Accident Analysis & Prevention, and Journal of Transportation Engineering, Part A.\nPrior to [University Name], he was a postdoctoral researcher at [Institution], and he completed his Ph.D. in Civil Engineering at [Ph.D. Institution] in [Year], advised by [Advisor Name]. He also holds an M.S. in Transportation Engineering from [M.S. Institution] and a B.S. in Civil Engineering from [B.S. Institution].\n\n\n\n\nTraffic flow theory, control, and simulation\nTransportation safety analytics and crash prediction\nConnected and automated vehicle (CAV) systems\nPublic transit accessibility and equity\nFreight systems and urban logistics\nApplied machine learning for mobility data\n\n\n\n\n\nPosition Assistant Professor, [University Name]\nPh.D. [Ph.D. Institution], [Year]\nLab Mobility Systems Lab\nAffiliations Transportation Research Board (TRB)\nContact Get in touch →"
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Usman Ahmed is an Assistant Professor in the Department of Civil & Environmental Engineering at [University Name], where he directs the Mobility Systems Lab. His research focuses on traffic operations, transportation safety analytics, and the integration of connected and automated vehicle (CAV) technologies into real-world transportation networks. His work has been supported by [Funding Agencies, e.g., NSF, USDOT, State DOT] and published in leading journals including Transportation Research Part C, Accident Analysis & Prevention, and Journal of Transportation Engineering, Part A.\nPrior to [University Name], he was a postdoctoral researcher at [Institution], and he completed his Ph.D. in Civil Engineering at [Ph.D. Institution] in [Year], advised by [Advisor Name]. He also holds an M.S. in Transportation Engineering from [M.S. Institution] and a B.S. in Civil Engineering from [B.S. Institution]."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About",
+    "section": "",
+    "text": "Traffic flow theory, control, and simulation\nTransportation safety analytics and crash prediction\nConnected and automated vehicle (CAV) systems\nPublic transit accessibility and equity\nFreight systems and urban logistics\nApplied machine learning for mobility data"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\n[Year]\n\n\nPh.D., Civil Engineering — [Ph.D. Institution]\nDissertation: “[Dissertation Title].” Advisor: [Advisor Name].\n\n\n\n\n[Year]\n\n\nM.S., Transportation Engineering — [M.S. Institution]\n\n\n\n\n[Year]\n\n\nB.S., Civil Engineering — [B.S. Institution]\n\n\n\nFor a complete record of positions, honors, and service, see the CV page."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "[Building Name], Room [###] Department of Civil & Environmental Engineering [University Name] [Street Address] [City, State ZIP]\n\n\n\nusman.ahmed@example.edu +1 (555) 555-5555"
+  },
+  {
+    "objectID": "contact.html#prospective-students",
+    "href": "contact.html#prospective-students",
+    "title": "Contact",
+    "section": "Prospective Students",
+    "text": "Prospective Students\nI welcome inquiries from prospective Ph.D. and M.S. students interested in traffic systems, transportation safety, or connected/automated vehicles. Please email me directly with:\n\nA brief description of your research interests and how they align with the Research page\nYour CV\nUnofficial transcripts (if available)\n\nPlease note I am generally not able to respond individually to general “do you have funding?” emails without this information included."
+  },
+  {
+    "objectID": "contact.html#media-speaking-requests",
+    "href": "contact.html#media-speaking-requests",
+    "title": "Contact",
+    "section": "Media & Speaking Requests",
+    "text": "Media & Speaking Requests\nFor media inquiries, invited talks, or podcast/interview requests, please reach out via email with details on the venue/outlet and topic."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Updates on publications, grants, talks, and lab milestones. New items are added as individual files in the news/ folder — this page and the homepage summary update automatically.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNSF grant awarded for microtransit equity research\n\n\n\n\n\n\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPaper accepted in Transportation Research Part C\n\n\n\n\n\n\n\n\nApril 2026\n\n\n\n\n\n\n\n\n\n\n\n\nInvited talk at TRB Annual Meeting\n\n\n\n\n\n\n\n\nJanuary 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcoming a new Ph.D. student to the Mobility Systems Lab\n\n\n\n\n\n\n\n\nSeptember 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/2026-01-12-trb-talk.html",
+    "href": "news/2026-01-12-trb-talk.html",
+    "title": "Invited talk at TRB Annual Meeting",
+    "section": "",
+    "text": "I gave an invited talk, “Mixed Autonomy Traffic at Signalized Intersections,” at the 105th Transportation Research Board (TRB) Annual Meeting in Washington, D.C. Slides are linked from the Publications page."
+  },
+  {
+    "objectID": "news/2026-06-15-grant-awarded.html",
+    "href": "news/2026-06-15-grant-awarded.html",
+    "title": "NSF grant awarded for microtransit equity research",
+    "section": "",
+    "text": "Delighted to share that our project, Equitable Microtransit Design for Mid-Sized Cities, has been awarded funding by the National Science Foundation (Award #0000000). The three-year project will study on-demand microtransit service design in partnership with [Regional Transit Agency]. See the Projects page for details."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My name is in bold within author lists. See my Google Scholar profile for citation metrics; contact me for a copy of any paper not linked below."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n\n\n2026\n\n\nGhizzawi, Farah, Ahmed, Usman, & Roorda, Matthew J (2026). Parking patterns of last-mile delivery vehicles: a comparison between light-duty trucks and electric cargo tricycles in downtown Toronto. Transportation Research Interdisciplinary Perspectives, 37, 101941.\n\n\n\n\n2025\n\n\nLee, K., Ahmed, U., & Patel, R. (2025). Equity impacts of microtransit expansion in mid-sized cities. Journal of Transport Geography, 108, 103567.\n\n\nPDF DOI\n\n\n\n\n2024\n\n\nAhmed, U. & Chen, L. (2024). A Bayesian framework for real-time crash risk estimation on urban freeways. Accident Analysis & Prevention, 195, 107345.\n\n\nPDF DOI Data"
+  },
+  {
+    "objectID": "publications.html#conference-proceedings",
+    "href": "publications.html#conference-proceedings",
+    "title": "Publications",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\n\n\n2025\n\n\nAhmed, U. & Garcia, M. (2025). Evaluating mixed autonomy traffic at signalized intersections. Proceedings of the 104th Transportation Research Board Annual Meeting, Washington, D.C.\n\n\nPDF Slides\n\n\n\n\n2023\n\n\nNovak, S. & Ahmed, U. (2023). Curb-space allocation under growing e-commerce delivery demand. Proceedings of the IEEE Intelligent Transportation Systems Conference, Bilbao, Spain.\n\n\nPDF"
+  },
+  {
+    "objectID": "publications.html#reports-working-papers",
+    "href": "publications.html#reports-working-papers",
+    "title": "Publications",
+    "section": "Reports & Working Papers",
+    "text": "Reports & Working Papers\n\n\n\n2025\n\n\nAhmed, U. (2025). Work-zone safety with connected-vehicle data: Final report. Prepared for [State Department of Transportation].\n\n\nPDF\n\n\n\n\n2022\n\n\nAhmed, U. (2022). Doctoral dissertation: “[Dissertation Title].” [Ph.D. Institution].\n\n\nPDF"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I aim to connect transportation engineering theory to problems students can see in their own cities — congestion, crashes, and unequal access to mobility. My courses combine foundational modeling with hands-on work using real traffic and transit datasets, so students leave able to apply these methods in practice, not just on exams.\n\n\nCourses Taught\n\n\n\n\nFall 2024, Fall 2025 Undergraduate\n\n\n\nIntroduction to traffic flow theory, capacity analysis, and transportation planning fundamentals.\n\n\n\n\nSpring 2025, Spring 2026 Graduate\n\n\n\nMacroscopic and microscopic traffic modeling, calibration, and simulation using SUMO and VISSIM.\n\n\n\n\nFall 2025 Graduate Seminar\n\n\n\nStatistical and machine-learning approaches to crash prediction and proactive safety management, with a semester-long applied project.\n\n\n\n\n\n\n\n\n[Student Name] — [Dissertation Topic] (expected [Year]) [Student Name] — [Dissertation Topic] (expected [Year])\n\n\n\n[Student Name] — [Thesis Topic]\n\n\n\n\n\n[Alumnus Name], Ph.D. [Year] — now at [Placement] [Alumnus Name], M.S. [Year] — now at [Placement]\n\n\n\nI am recruiting new Ph.D. and M.S. students interested in traffic systems, safety analytics, and CAV technologies. See Contact for how to apply."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "",
+    "text": "I aim to connect transportation engineering theory to problems students can see in their own cities — congestion, crashes, and unequal access to mobility. My courses combine foundational modeling with hands-on work using real traffic and transit datasets, so students leave able to apply these methods in practice, not just on exams.\n\n\nCourses Taught\n\n\n\n\nFall 2024, Fall 2025 Undergraduate\n\n\n\nIntroduction to traffic flow theory, capacity analysis, and transportation planning fundamentals.\n\n\n\n\nSpring 2025, Spring 2026 Graduate\n\n\n\nMacroscopic and microscopic traffic modeling, calibration, and simulation using SUMO and VISSIM.\n\n\n\n\nFall 2025 Graduate Seminar\n\n\n\nStatistical and machine-learning approaches to crash prediction and proactive safety management, with a semester-long applied project.\n\n\n\n\n\n\n\n\n[Student Name] — [Dissertation Topic] (expected [Year]) [Student Name] — [Dissertation Topic] (expected [Year])\n\n\n\n[Student Name] — [Thesis Topic]\n\n\n\n\n\n[Alumnus Name], Ph.D. [Year] — now at [Placement] [Alumnus Name], M.S. [Year] — now at [Placement]\n\n\n\nI am recruiting new Ph.D. and M.S. students interested in traffic systems, safety analytics, and CAV technologies. See Contact for how to apply."
+  }
+]

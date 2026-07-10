@@ -1,0 +1,120 @@
+---
+title: "Curriculum Vitae"
+toc: false
+page-layout: article
+---
+
+<a class="cv-download" href="files/Usman_Ahmed_CV.pdf" target="_blank">Download PDF</a>
+
+<p class="note">The PDF above is the authoritative, up-to-date CV. The summary below is
+for quick reference — replace <code>files/Usman_Ahmed_CV.pdf</code> with your actual file.</p>
+
+<hr class="rule">
+
+<div class="section-label">Academic Appointments</div>
+
+::: {.row-list}
+::: {.row}
+::: {.row-meta}
+2023–present
+:::
+::: {.row-content}
+### Assistant Professor
+Department of Civil & Environmental Engineering, [University Name]
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+2021–2023
+:::
+::: {.row-content}
+### Postdoctoral Researcher
+[Institution]
+:::
+:::
+:::
+
+<div class="section-label" style="margin-top:2.5rem;">Education</div>
+
+::: {.row-list}
+::: {.row}
+::: {.row-meta}
+[Year]
+:::
+::: {.row-content}
+### Ph.D., Civil Engineering — [Ph.D. Institution]
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+[Year]
+:::
+::: {.row-content}
+### M.S., Transportation Engineering — [M.S. Institution]
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+[Year]
+:::
+::: {.row-content}
+### B.S., Civil Engineering — [B.S. Institution]
+:::
+:::
+:::
+
+<div class="section-label" style="margin-top:2.5rem;">Honors & Awards</div>
+
+::: {.row-list}
+::: {.row}
+::: {.row-meta}
+[Year]
+:::
+::: {.row-content}
+### [Award Name] — [Awarding Body]
+:::
+:::
+
+::: {.row}
+::: {.row-meta}
+[Year]
+:::
+::: {.row-content}
+### [Dissertation/Thesis Award] — [Institution]
+:::
+:::
+:::
+
+<div class="section-label" style="margin-top:2.5rem;">Grants & Funding</div>
+
+<p class="note">See <a href="projects.qmd">Projects</a> for full descriptions.</p>
+
+{{< include _includes/featured-projects.qmd >}}
+
+<div class="section-label" style="margin-top:2.5rem;">Selected Publications</div>
+
+<p class="note">See <a href="publications.qmd">Publications</a> for the full list.</p>
+
+{{< include _includes/recent-publications.qmd >}}
+
+<div class="section-label" style="margin-top:2.5rem;">Teaching</div>
+
+<p class="note">See <a href="teaching.qmd">Teaching</a> for course descriptions and
+student mentoring — CE 4xx Transportation Systems Analysis, CE 5xx Traffic Flow Theory &
+Simulation, CE 6xx Data-Driven Transportation Safety.</p>
+
+<div class="section-label" style="margin-top:2.5rem;">Professional Service</div>
+
+- Member, Transportation Research Board (TRB) Committee on [Committee Name]
+- Reviewer: *Transportation Research Part C*, *Accident Analysis & Prevention*, *Journal
+  of Transportation Engineering*
+- Session Chair, [Conference Name], [Year]
+
+<div class="section-label" style="margin-top:2.5rem;">Skills</div>
+
+**Programming** — Python, R, SQL
+**Simulation** — SUMO, VISSIM, Aimsun
+**Other** — GIS, GTFS/transit data pipelines, causal inference, machine learning

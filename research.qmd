@@ -1,0 +1,65 @@
+---
+title: "Research"
+toc: false
+page-layout: article
+---
+
+My research develops data-driven methods to make transportation systems safer, more
+efficient, and more equitable. Below are the main themes my lab works on; see
+[Projects](projects.qmd) for active and past funded work, and [Publications](publications.qmd)
+for the resulting papers.
+
+<hr class="rule">
+
+::: {.plain-grid}
+<div>
+### Traffic Flow Theory & Control
+Modeling and controlling traffic dynamics on freeways and arterials, including signal
+timing, ramp metering, and macroscopic/microscopic simulation of mixed human-driven and
+automated traffic.
+</div>
+<div>
+### Transportation Safety Analytics
+Statistical and machine-learning methods for crash prediction, near-miss detection, and
+proactive safety management using naturalistic driving and infrastructure sensor data.
+</div>
+<div>
+### Connected & Automated Vehicles
+Evaluating how connected-vehicle (CV) and automated-vehicle (AV) technologies affect
+network performance, safety, and energy use, with a focus on transition-period challenges.
+</div>
+<div>
+### Transit Equity & Accessibility
+Measuring and improving access to public transit for underserved populations, combining
+GTFS data, land-use models, and accessibility metrics to inform service planning.
+</div>
+<div>
+### Freight & Urban Logistics
+Understanding last-mile delivery, curb management, and freight network resilience in
+growing urban areas.
+</div>
+<div>
+### Applied Machine Learning for Mobility Data
+Developing interpretable ML methods for large-scale mobility datasets, including
+probe-vehicle data, video-derived trajectories, and mobile-phone location data.
+</div>
+:::
+
+<hr class="rule">
+
+::: {.split}
+::: {}
+### Methods & Tools
+My group works with a mix of field data collection, high-fidelity traffic simulation
+(e.g., SUMO, VISSIM), statistical modeling, and machine learning. We prioritize
+reproducible, open-source workflows — code for select projects is available on
+[GitHub](https://github.com).
+:::
+
+::: {}
+### Collaborations
+I collaborate with researchers in computer science, urban planning, and public health,
+as well as with public-sector partners including [State DOT], [Regional Transit Agency],
+and [City Department of Transportation]. [Get in touch](contact.qmd) about collaborating.
+:::
+:::

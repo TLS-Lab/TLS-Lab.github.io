@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "7b84ca27"
+  },
+  "about.qmd": {
+    "about.html": "934b1d09"
+  },
+  "contact.qmd": {
+    "contact.html": "454da9a5"
+  },
+  "cv.qmd": {
+    "cv.html": "0e13f966"
+  },
+  "news.qmd": {
+    "news.html": "45feaaed"
+  },
+  "news/2025-09-01-new-phd-student.qmd": {
+    "2025-09-01-new-phd-student.html": "83f8c806"
+  },
+  "news/2026-01-12-trb-talk.qmd": {
+    "2026-01-12-trb-talk.html": "0acef007"
+  },
+  "news/2026-04-02-paper-accepted.qmd": {
+    "2026-04-02-paper-accepted.html": "5a9c788d"
+  },
+  "news/2026-06-15-grant-awarded.qmd": {
+    "2026-06-15-grant-awarded.html": "90ae638c"
+  },
+  "projects.qmd": {
+    "projects.html": "89e00fbf"
+  },
+  "publications.qmd": {
+    "publications.html": "1d8628c6"
+  },
+  "research.qmd": {
+    "research.html": "e0211c15"
+  },
+  "teaching.qmd": {
+    "teaching.html": "dca3a7c2"
+  }
+}

@@ -1,0 +1,111 @@
+---
+title: "Transportation and Logistics Systems Lab"
+page-layout: article
+toc: false
+listing:
+  id: home-news
+  contents: news
+  sort: "date desc"
+  type: table
+  fields: [date, title]
+  field-display-names:
+    date: ""
+    title: ""
+  max-items: 3
+  categories: false
+  date-format: "MMMM YYYY"
+  sort-ui: false
+  filter-ui: false
+---
+
+::: {.hero}
+::: {.hero-text}
+<div class="hero-eyebrow">Transportation Research</div>
+
+# Usman Ahmed
+
+<div class="hero-role">Research Assistant Professor</div>
+<div class="hero-affiliation">UT-Oak Ridge Innovation Institute, University of Tennessee, Knoxville</div>
+
+<div class="hero-interests">
+I study traffic operations, transportation safety, and the integration of connected and
+automated vehicles into everyday mobility — using data and modeling to make transportation
+systems safer, more efficient, and more equitable.
+</div>
+
+<div class="hero-actions">
+<a class="btn-line btn-solid" href="files/Usman_Ahmed_CV.pdf" target="_blank">Download CV</a>
+<a class="btn-line btn-outline" href="https://scholar.google.com" target="_blank">Google Scholar</a>
+</div>
+:::
+
+<div class="hero-figure">
+Portrait placeholder<br>(images/profile.jpg)
+</div>
+:::
+
+<hr class="rule">
+
+::: {.page-section}
+<div class="section-head">
+<div class="section-label">Research Areas</div>
+</div>
+
+::: {.plain-grid}
+<div>
+### Traffic Flow & Control
+Modeling and controlling traffic dynamics on freeways and arterials, including signal
+timing and mixed human/automated traffic.
+</div>
+<div>
+### Transportation Safety
+Statistical and machine-learning methods for crash prediction and proactive safety
+management.
+</div>
+<div>
+### Connected & Automated Vehicles
+Evaluating how CV/AV technologies affect network performance and safety during the
+transition period.
+</div>
+<div>
+### Transit Equity
+Measuring and improving access to public transit for underserved populations.
+</div>
+:::
+
+[View all research areas &rarr;](research.qmd)
+:::
+
+<hr class="rule">
+
+::: {.page-section}
+<div class="section-head">
+<div class="section-label">Featured Projects</div>
+<a class="view-all" href="projects.qmd">All projects &rarr;</a>
+</div>
+
+{{< include _includes/featured-projects.qmd >}}
+:::
+
+<hr class="rule">
+
+::: {.page-section}
+<div class="section-head">
+<div class="section-label">Recent Publications</div>
+<a class="view-all" href="publications.qmd">All publications &rarr;</a>
+</div>
+
+{{< include _includes/recent-publications.qmd >}}
+:::
+
+<hr class="rule">
+
+::: {.page-section}
+<div class="section-head">
+<div class="section-label">Latest News</div>
+<a class="view-all" href="news.qmd">All news &rarr;</a>
+</div>
+
+::: {#home-news}
+:::
+:::
