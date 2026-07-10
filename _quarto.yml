@@ -10,7 +10,7 @@ project:
 website:
   title: "Usman Ahmed"
   description: "Transportation researcher — traffic systems, safety, and mobility."
-  site-url: "https://example.com"
+  site-url: "https://tls-lab.github.io"
   page-navigation: true
   back-to-top-navigation: false
   bread-crumbs: false
