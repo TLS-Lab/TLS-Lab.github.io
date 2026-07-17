@@ -28,6 +28,21 @@ h1, h2, h3, h4, h5 {
   letter-spacing: -0.01em;
 }
 
+.page-title-with-logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.page-title-with-logo h1 {
+  margin: 0;
+}
+.page-title-logo {
+  height: 5rem;
+  width: auto;
+  flex-shrink: 0;
+}
+
 p {
   color: var(--ink);
 }
@@ -144,7 +159,7 @@ section.page-section h2 {
 /* ------------------------------------------------------------------ */
 .hero {
   display: grid;
-  grid-template-columns: 1.6fr 1fr;
+  grid-template-columns: 2.5fr 1.5fr;
   gap: 4rem;
   align-items: center;
   padding: 3rem 0 4rem 0;
@@ -190,9 +205,11 @@ section.page-section h2 {
 
 .hero-figure {
   aspect-ratio: 4 / 5;
+  max-width: 300px;
+  justify-self: center;
+  object-fit: cover;
   background: #f2f2f2;
   border: 1px solid var(--hairline);
-  filter: grayscale(1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -272,6 +289,71 @@ section.page-section h2 {
 .row-content a:hover {
   color: var(--navy);
   border-bottom-color: var(--navy);
+}
+
+/* Team member photo (used in place of .row-meta on team.qmd) --------*/
+.row-photo {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--hairline);
+}
+.row-photo-placeholder {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  background: #f2f2f2;
+  border: 1px solid var(--hairline);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--slate);
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+/* Projects funding table ---------------------------------------------*/
+.projects-table-wrap {
+  overflow-x: auto;
+}
+.projects-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5rem 0 2rem 0;
+  font-size: 0.95rem;
+}
+.projects-table th {
+  text-align: left;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--slate);
+  font-weight: 600;
+  border-bottom: 2px solid var(--navy);
+  padding: 0.6rem 1.2rem 0.6rem 0;
+  white-space: nowrap;
+}
+.projects-table td {
+  vertical-align: top;
+  border-bottom: 1px solid var(--hairline);
+  padding: 1rem 1.2rem 1rem 0;
+}
+.projects-table th:last-child,
+.projects-table td:last-child {
+  padding-right: 0;
+}
+.projects-table .project-title {
+  margin-bottom: 0.3rem;
+}
+.projects-table .project-title p,
+.projects-table .project-desc p {
+  font-size: inherit;
+  margin: 0;
+}
+.projects-table .project-desc {
+  color: var(--slate);
+  font-size: 0.88rem;
 }
 
 /* Plain multi-column list (Research Areas — no meta column) ---------*/

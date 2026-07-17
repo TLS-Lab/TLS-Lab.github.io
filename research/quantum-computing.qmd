@@ -1,0 +1,9 @@
+---
+title: "Quantum Computing"
+toc: false
+page-layout: article
+---
+
+[&larr; Back to Research](../research.qmd)
+
+

@@ -1,51 +1,66 @@
 ---
-title: "Transportation and Logistics Systems Lab"
+pagetitle: "Transportation and Logistics Systems Lab"
 page-layout: article
 toc: false
-listing:
-  id: home-news
-  contents: news
-  sort: "date desc"
-  type: table
-  fields: [date, title]
-  field-display-names:
-    date: ""
-    title: ""
-  max-items: 3
-  categories: false
-  date-format: "MMMM YYYY"
-  sort-ui: false
-  filter-ui: false
 ---
+
+<div class="page-title-with-logo">
+<img src="logos/Logo1-navbar.png" alt="TLS Lab logo" class="page-title-logo">
+<h1>Transportation and Logistics Systems Lab</h1>
+</div>
 
 ::: {.hero}
 ::: {.hero-text}
-<div class="hero-eyebrow">Transportation Research</div>
+<div class="hero-eyebrow">Welcome to our Reserach Lab!</div>
 
 # Usman Ahmed
 
 <div class="hero-role">Research Assistant Professor</div>
-<div class="hero-affiliation">UT-Oak Ridge Innovation Institute, University of Tennessee, Knoxville</div>
+<div class="hero-affiliation"><a href="https://utorii.com/usman-ahmed/" target="_blank">UT-Oak Ridge Innovation Institute</a><br><a href="https://ctr.utk.edu/person/usman-ahmed/" target="_blank">Center for Transportation Research</a><br>University of Tennessee, Knoxville</div>
+
+<div class="hero-role">Chief Development Officer</div>
+<div class="hero-affiliation"><a href="https://apex-ai.site" target="_blank">Apex AI</a></div>
 
 <div class="hero-interests">
-I study traffic operations, transportation safety, and the integration of connected and
-automated vehicles into everyday mobility — using data and modeling to make transportation
-systems safer, more efficient, and more equitable.
+
+Dr. Usman Ahmed is a Research Assistant Professor at the UT-Oak Ridge Innovation Institute (UTORII), University of Tennessee, Knoxville. Dr. Ahmed's research interests include supply chain and logistics, transportation demand modeling, emerging freight technologies for last-mile delivery, e-commerce modeling, and digital twins for transportation. His work integrates optimization, econometric modeling, simulation, computer vision, artificial intelligence, and machine learning to develop data-driven solutions that improve the efficiency, resilience, and sustainability of transportation and logistics systems.
+
 </div>
 
 <div class="hero-actions">
-<a class="btn-line btn-solid" href="files/Usman_Ahmed_CV.pdf" target="_blank">Download CV</a>
-<a class="btn-line btn-outline" href="https://scholar.google.com" target="_blank">Google Scholar</a>
+<a class="btn-line btn-solid" href="https://www.linkedin.com/in/uahmed16" target="_blank">LinkedIn</a>
+
+<a class="btn-line btn-solid" href="https://apex-ai.site" target="_blank">Apex AI</a>
+
+<a class="btn-line btn-solid" href="https://scholar.google.com/citations?user=eiM9m1EAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
+
+<!--
+<a class="btn-line btn-solid" href="https://ctr.utk.edu/person/usman-ahmed/" target="_blank">CTR Profile</a>
+
+<a class="btn-line btn-solid" href="https://utorii.com/usman-ahmed/" target="_blank">UTORII Profile</a>
+-->
+
+
 </div>
 :::
 
-<div class="hero-figure">
-Portrait placeholder<br>(images/profile.jpg)
-</div>
+<img src="images/UA2.jpg" class="hero-figure" alt="Portrait of Usman Ahmed">
 :::
+
 
 <hr class="rule">
 
+
+::: {.page-section}
+<div class="section-head">
+<div class="section-label">Latest News</div>
+<a class="view-all" href="news.qmd">All news &rarr;</a>
+</div>
+
+{{< include _includes/recent-news.qmd >}}
+:::
+
+<!--
 ::: {.page-section}
 <div class="section-head">
 <div class="section-label">Research Areas</div>
@@ -84,10 +99,11 @@ Measuring and improving access to public transit for underserved populations.
 <a class="view-all" href="projects.qmd">All projects &rarr;</a>
 </div>
 
-{{< include _includes/featured-projects.qmd >}}
+{{</* include _includes/featured-projects.qmd */>}}
 :::
 
 <hr class="rule">
+
 
 ::: {.page-section}
 <div class="section-head">
@@ -95,17 +111,8 @@ Measuring and improving access to public transit for underserved populations.
 <a class="view-all" href="publications.qmd">All publications &rarr;</a>
 </div>
 
-{{< include _includes/recent-publications.qmd >}}
+{{</* include _includes/recent-publications.qmd */>}}
 :::
 
 <hr class="rule">
-
-::: {.page-section}
-<div class="section-head">
-<div class="section-label">Latest News</div>
-<a class="view-all" href="news.qmd">All news &rarr;</a>
-</div>
-
-::: {#home-news}
-:::
-:::
+-->

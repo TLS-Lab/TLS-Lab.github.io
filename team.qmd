@@ -1,0 +1,108 @@
+---
+title: "Team"
+toc: false
+page-layout: article
+---
+
+<p class="note">Meet the people working on transportation research in the lab.</p>
+
+<!--
+<hr class="rule">
+-->
+## Faculty
+
+::: {.row-list}
+::: {.row}
+::: {}
+<img src="images/UA2.jpg" class="row-photo" alt="Photo of Usman Ahmed">
+:::
+::: {.row-content}
+### Usman Ahmed
+Research Assistant Professor
+:::
+:::
+:::
+
+<!--
+## Postdoctoral Researchers
+
+::: {.row-list}
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### [Postdoc Name]
+[About.]
+:::
+:::
+:::
+-->
+
+## Ph.D. Students
+
+::: {.row-list}
+
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### Momina Liaqat Ali
+
+:::
+:::
+
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### Galen Avram Flanagan
+
+:::
+:::
+
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### Sharika Kabir
+
+:::
+:::
+
+:::
+
+
+## Undergraduate Research Assistant
+
+::: {.row-list}
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### Pranav Sesha Sai Govindu
+
+:::
+:::
+:::
+
+
+<!--
+## Alumni
+
+::: {.row-list}
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### [Alum Name]
+[About.] Now at [Current Position].
+:::
+:::
+:::
+-->

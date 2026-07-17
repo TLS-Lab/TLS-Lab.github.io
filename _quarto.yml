@@ -3,25 +3,27 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "news/"
+    - "research/"
   pre-render:
     - _build/generate_publications.py
+    - _build/generate_news.py
 
 website:
   title: "Usman Ahmed"
-  description: "Transportation researcher — traffic systems, safety, and mobility."
+  description: "Transportation researcher — mobility, logistics, safety"
   site-url: "https://tls-lab.github.io"
+  google-analytics: "G-BDKLRBR5ZS"
   page-navigation: true
   back-to-top-navigation: false
   bread-crumbs: false
 
   navbar:
-    title: "Usman Ahmed"
+    title: false
+    logo: logos/Logo1-navbar.png
+    logo-alt: "Usman Ahmed"
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: publications.qmd
@@ -30,6 +32,8 @@ website:
         text: Projects
       - href: teaching.qmd
         text: Teaching
+      - href: team.qmd
+        text: Team
       - href: news.qmd
         text: News
     right:
@@ -42,14 +46,14 @@ website:
     left: |
       &copy; 2026 Usman Ahmed
     center: |
-      Department of Civil & Environmental Engineering, [University Name]
+      UT-Oak Ridge Innovation Institute, University of Tennessee, Knoxville
     right:
       - text: "Scholar"
-        href: https://scholar.google.com
+        href: https://scholar.google.com/citations?hl=en&user=eiM9m1EAAAAJ&view_op=list_works&sortby=pubdate
       - text: "GitHub"
         href: https://github.com
       - text: "LinkedIn"
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/uahmed16
     border: true
 
   search:

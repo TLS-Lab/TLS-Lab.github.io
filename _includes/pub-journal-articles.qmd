@@ -7,23 +7,119 @@
 ::: {.pub-entry}
 <span class="pub-year">2026</span>
 <div class="pub-body">
-<p>Ghizzawi, Farah, Ahmed, Usman, & Roorda, Matthew J (2026). Parking patterns of last-mile delivery vehicles: a comparison between light-duty trucks and electric cargo tricycles in downtown Toronto. *Transportation Research Interdisciplinary Perspectives*, 37, 101941.</p>
+<p>Amaral, Julia, Holguin-Veras, Jose, Roorda, Matthew J, others, Ahmed, Usman, & others (2026). Freight trip generation in metropolitan areas: an international perspective. *Transportation Research Part A: Policy and Practice*, 204, 104847.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.tra.2025.104847)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p>Ghizzawi, Farah, <span class="pub-self">Ahmed, Usman</span>, & Roorda, Matthew J (2026). Parking patterns of last-mile delivery vehicles: a comparison between light-duty trucks and electric cargo tricycles in downtown Toronto. *Transportation Research Interdisciplinary Perspectives*, 37, 101941.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.trip.2026.101941)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Hawkins, Jason (2026). Residential Price Modeling Using Spatially Validated Machine Learning Methods: A Comparison Across Geographical Contexts. *Transportation Research Record*, 03611981261457410.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2025</span>
 <div class="pub-body">
-<p>Lee, K., <span class="pub-self">Ahmed, U.</span>, & Patel, R. (2025). Equity impacts of microtransit expansion in mid-sized cities. *Journal of Transport Geography*, 108, 103567.</p>
-<div class="pub-links">[PDF](#) [DOI](https://doi.org/10.1016/j.jtrangeo.2025.103567)</div>
+<p><span class="pub-self">Ahmed, Usman</span>, Mousavi, Kianoush, Zhang, Shang, & Roorda, Matthew J (2025). Noise impacts and social justice analysis of off-peak deliveries in the Greater Toronto Area. *Transport Policy*, 167, 66--77.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.tranpol.2025.03.018)</div>
 </div>
 :::
 
 ::: {.pub-entry}
-<span class="pub-year">2024</span>
+<span class="pub-year">2025</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, U.</span> & Chen, L. (2024). A Bayesian framework for real-time crash risk estimation on urban freeways. *Accident Analysis & Prevention*, 195, 107345.</p>
-<div class="pub-links">[PDF](#) [DOI](https://doi.org/10.1016/j.aap.2024.107345) [Data](#)</div>
+<p>Rivera-Gonzalez, Carlos, <span class="pub-self">Ahmed, Usman</span>, & Roorda, Matthew J (2025). The evolving landscape of urban logistics: A study of the Greater Golden Horseshoe. *Journal of Transport Geography*, 122, 104055.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.jtrangeo.2024.104055)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p>Saeedi, Milad, Xu, Junshi, <span class="pub-self">Ahmed, Usman</span>, Roorda, Matthew, & Hatzopoulou, Marianne (2025). Urban Air Pollution Data Collection, Mapping, and Prediction Using Mobile Sensors Installed on Courier Trucks. *Transportation Research Record*, 2679, 236--250.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1177/03611981251324208)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Tu, Ran, Xu, Junshi, Amirjamshidi, Glareh, Hatzopoulou, Marianne, & Roorda, Matthew J (2023). GPS-based traffic conditions classification using machine learning approaches. *Transportation research record*, 2677, 1445--1454.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1177/03611981221111370)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Moeckel, Rolf (2023). Impact of life events on incremental travel behavior change. *Transportation research record*, 2677, 594--605.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1177/03611981231159863)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2023). Joint and sequential models for freight vehicle type and shipment size choice. *Transportation*, 50, 1613--1629.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1007/s11116-022-10289-6)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Hawkins, Jason, & Roorda, Matthew J (2022). Establishment location choice model considering intra-firm interactions. *Journal of Transport Geography*, 102, 103391.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.jtrangeo.2022.103391)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p>Hawkins, Jason, <span class="pub-self">Ahmed, Usman</span>, Roorda, Matthew, & Habib, Khandker Nurul (2022). Measuring the process of urban gentrification: A composite measure of the gentrification process in Toronto. *Cities*, 126, 103708.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.cities.2022.103708)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2022). Modeling freight vehicle type choice using machine learning and discrete choice methods. *Transportation Research Record*, 2676, 541--552.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1177/03611981211044462)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2022). Modelling carrier type and vehicle type choice of small and medium size firms. *Transportation Research Part E: Logistics and Transportation Review*, 160, 102655.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.tre.2022.102655)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2021</span>
+<div class="pub-body">
+<p>Xu, Junshi, Tu, Ran, <span class="pub-self">Ahmed, Usman</span>, Amirjamshidi, Glareh, Hatzopoulou, Marianne, & Roorda, Matthew J (2021). An eco-score system incorporating driving behavior, vehicle characteristics, and traffic conditions. *Transportation Research Part D: Transport and Environment*, 95, 102866.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.trd.2021.102866)</div>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2020</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Moreno, Ana Tsui, & Moeckel, Rolf (2020). Microscopic activity sequence generation: a multiple correspondence analysis to explain travel behavior based on socio-demographic person attributes. *Transportation*, 48, 1481--1502.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1007/s11116-020-10103-1)</div>
 </div>
 :::
 :::

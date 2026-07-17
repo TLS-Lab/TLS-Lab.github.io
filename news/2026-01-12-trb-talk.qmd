@@ -1,8 +1,0 @@
----
-title: "Invited talk at TRB Annual Meeting"
-date: 2026-01-12
----
-
-I gave an invited talk, "Mixed Autonomy Traffic at Signalized Intersections," at the
-105th Transportation Research Board (TRB) Annual Meeting in Washington, D.C. Slides are
-linked from the [Publications](../publications.qmd) page.

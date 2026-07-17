@@ -1,15 +1,30 @@
 % Single source of truth for the publication record.
 %
 % Add a new entry, run `quarto preview` / `quarto render`, and it is
-% automatically formatted into _includes/recent-publications.qmd and the
-% Journal Articles / Conference Proceedings / Reports & Working Papers
-% sections of publications.qmd (see _build/generate_publications.py).
+% automatically formatted into the Journal Articles / Conference Proceedings /
+% Preprints / Patents / Thesis / Reports & Working Papers sections of
+% publications.qmd, plus the "Recent" teaser on index.qmd and cv.qmd
+% (see _build/generate_publications.py).
 %
-% Supported entry types: @article, @inproceedings, @techreport, @phdthesis.
+% Supported entry types: @article, @inproceedings, @techreport, @phdthesis,
+% @mastersthesis, @patent, @preprint.
 % Custom fields (beyond standard BibTeX) recognized by the generator:
 %   pdf, doi, data, code, slides  -- URLs rendered as links under each entry
 %   preparedfor                   -- sponsoring org, for @techreport entries
-%   recent = {true}               -- feature this entry in the "Recent" list
+%   note                          -- patent status / preprint venue text
+%   recent = {true}               -- feature this entry in the "Recent" teaser
+
+% Entries below are kept in newest-first order for readability. The
+% generator sorts by year regardless, so this ordering is cosmetic only.
+
+@article{ahmed2026residential,
+  title={Residential Price Modeling Using Spatially Validated Machine Learning Methods: A Comparison Across Geographical Contexts},
+  author={Ahmed, Usman and Hawkins, Jason},
+  journal={Transportation Research Record},
+  pages={03611981261457410},
+  year={2026},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
 
 @article{ghizzawi2026parking,
   title={Parking patterns of last-mile delivery vehicles: a comparison between light-duty trucks and electric cargo tricycles in downtown Toronto},
@@ -18,67 +33,240 @@
   volume={37},
   pages={101941},
   year={2026},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.trip.2026.101941}
 }
 
-
-
-@inproceedings{ahmed2025mixedautonomy,
-  author    = {Ahmed, U. and Garcia, M.},
-  title     = {Evaluating mixed autonomy traffic at signalized intersections},
-  booktitle = {Proceedings of the 104th Transportation Research Board Annual Meeting},
-  year      = {2025},
-  address   = {Washington, D.C.},
-  pdf       = {#},
-  slides    = {#},
-  recent    = {true}
+@article{amaral2026freight,
+  title={Freight trip generation in metropolitan areas: an international perspective},
+  author={Amaral, Julia and Holguin-Veras, Jose and Roorda, Matthew J and others, Ahmed, Usman and others},
+  journal={Transportation Research Part A: Policy and Practice},
+  volume={204},
+  pages={104847},
+  year={2026},
+  publisher={Pergamon},
+  doi = {https://doi.org/10.1016/j.tra.2025.104847}
 }
 
-@article{lee2025equity,
-  author    = {Lee, K. and Ahmed, U. and Patel, R.},
-  title     = {Equity impacts of microtransit expansion in mid-sized cities},
-  journal   = {Journal of Transport Geography},
-  year      = {2025},
-  volume    = {108},
-  pages     = {103567},
-  doi       = {10.1016/j.jtrangeo.2025.103567},
-  pdf       = {#},
-  recent    = {true}
+@patent{shoman2025multimodal,
+  title={Multimodal Computer Vision System and Method for Real-Time Navigation Assistance for Visually Impaired Pedestrians},
+  author={Shoman, Maged and Ahmed, Usman},
+  year={2025},
+  month=nov # "~14",
+  note={US Provisional Patent App. 63/917,447}
 }
 
-@article{ahmed2024bayesian,
-  author    = {Ahmed, U. and Chen, L.},
-  title     = {A Bayesian framework for real-time crash risk estimation on urban freeways},
-  journal   = {Accident Analysis \& Prevention},
-  year      = {2024},
-  volume    = {195},
-  pages     = {107345},
-  doi       = {10.1016/j.aap.2024.107345},
-  pdf       = {#},
-  data      = {#}
+@article{saeedi2025urban,
+  title={Urban Air Pollution Data Collection, Mapping, and Prediction Using Mobile Sensors Installed on Courier Trucks},
+  author={Saeedi, Milad and Xu, Junshi and Ahmed, Usman and Roorda, Matthew and Hatzopoulou, Marianne},
+  journal={Transportation Research Record},
+  volume={2679},
+  number={7},
+  pages={236--250},
+  year={2025},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  doi = {https://doi.org/10.1177/03611981251324208}
 }
 
-@inproceedings{novak2023curbspace,
-  author    = {Novak, S. and Ahmed, U.},
-  title     = {Curb-space allocation under growing e-commerce delivery demand},
-  booktitle = {Proceedings of the IEEE Intelligent Transportation Systems Conference},
-  year      = {2023},
-  address   = {Bilbao, Spain},
-  pdf       = {#}
+@article{ahmed2025noise,
+  title={Noise impacts and social justice analysis of off-peak deliveries in the Greater Toronto Area},
+  author={Ahmed, Usman and Mousavi, Kianoush and Zhang, Shang and Roorda, Matthew J},
+  journal={Transport Policy},
+  volume={167},
+  pages={66--77},
+  year={2025},
+  publisher={Pergamon},
+  doi = {https://doi.org/10.1016/j.tranpol.2025.03.018}
 }
 
-@techreport{ahmed2025workzone,
-  author       = {Ahmed, U.},
-  title        = {Work-zone safety with connected-vehicle data: Final report},
-  year         = {2025},
-  preparedfor  = {[State Department of Transportation]},
-  pdf          = {#}
+@article{rivera2025evolving,
+  title={The evolving landscape of urban logistics: A study of the Greater Golden Horseshoe},
+  author={Rivera-Gonzalez, Carlos and Ahmed, Usman and Roorda, Matthew J},
+  journal={Journal of Transport Geography},
+  volume={122},
+  pages={104055},
+  year={2025},
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.jtrangeo.2024.104055}
 }
 
-@phdthesis{ahmed2022dissertation,
-  author  = {Ahmed, U.},
-  title   = {[Dissertation Title]},
-  school  = {[Ph.D. Institution]},
-  year    = {2022},
-  pdf     = {#}
+@preprint{rashidi5602000data,
+  title={Data-driven Tour Duration Estimation in Last-Mile Logistics Considering Driver Preferences},
+  author={Rashidi, Hesam and Ahmed, Usman and Ghizzawi, Farah and Nourinejad, Mehdi and Roorda, Matthew J},
+  note={Available at SSRN 5602000},
+  pdf={https://ssrn.com/abstract=5602000}
+}
+
+@inproceedings{ahmed2024urban,
+  title={An Urban Freight Model Considering Intra-firm and Supply Chain Relationships},
+  author={Ahmed, Usman and Le, Tho V and Roorda, Matthew J},
+  booktitle={103rd Annual Meeting of the Transportation Research Board},
+  year={2024}
+}
+
+@article{ahmed2023joint,
+  title={Joint and sequential models for freight vehicle type and shipment size choice},
+  author={Ahmed, Usman and Roorda, Matthew J},
+  journal={Transportation},
+  volume={50},
+  number={5},
+  pages={1613--1629},
+  year={2023},
+  publisher={Springer US New York},
+  doi = {https://doi.org/10.1007/s11116-022-10289-6}
+}
+
+@article{ahmed2023gps,
+  title={GPS-based traffic conditions classification using machine learning approaches},
+  author={Ahmed, Usman and Tu, Ran and Xu, Junshi and Amirjamshidi, Glareh and Hatzopoulou, Marianne and Roorda, Matthew J},
+  journal={Transportation research record},
+  volume={2677},
+  number={2},
+  pages={1445--1454},
+  year={2023},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  doi = {https://doi.org/10.1177/03611981221111370}
+}
+
+@article{ahmed2023impact,
+  title={Impact of life events on incremental travel behavior change},
+  author={Ahmed, Usman and Moeckel, Rolf},
+  journal={Transportation research record},
+  volume={2677},
+  number={9},
+  pages={594--605},
+  year={2023},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  doi = {https://doi.org/10.1177/03611981231159863}
+}
+
+@inproceedings{moreno2023understanding,
+  title={Understanding the Impact of Life Events on Travel Behavior Change via Machine Learning},
+  author={Moreno, Ana Tsui and Nouli, Georgina and Ahmed, Usman and Schiffer, Maximilian and Moeckel, Rolf},
+  booktitle={Euro Working Group Transportation 2023},
+  year={2023}
+}
+
+@article{ahmed2022modeling,
+  title={Modeling freight vehicle type choice using machine learning and discrete choice methods},
+  author={Ahmed, Usman and Roorda, Matthew J},
+  journal={Transportation Research Record},
+  volume={2676},
+  number={2},
+  pages={541--552},
+  year={2022},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA},
+  doi = {https://doi.org/10.1177/03611981211044462}
+}
+
+@article{ahmed2022modelling,
+  title={Modelling carrier type and vehicle type choice of small and medium size firms},
+  author={Ahmed, Usman and Roorda, Matthew J},
+  journal={Transportation Research Part E: Logistics and Transportation Review},
+  volume={160},
+  pages={102655},
+  year={2022},
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.tre.2022.102655}
+}
+
+@article{hawkins2022measuring,
+  title={Measuring the process of urban gentrification: A composite measure of the gentrification process in Toronto},
+  author={Hawkins, Jason and Ahmed, Usman and Roorda, Matthew and Habib, Khandker Nurul},
+  journal={Cities},
+  volume={126},
+  pages={103708},
+  year={2022},
+  publisher={Pergamon},
+  doi = {https://doi.org/10.1016/j.cities.2022.103708}
+}
+
+@article{ahmed2022establishment,
+  title={Establishment location choice model considering intra-firm interactions},
+  author={Ahmed, Usman and Hawkins, Jason and Roorda, Matthew J},
+  journal={Journal of Transport Geography},
+  volume={102},
+  pages={103391},
+  year={2022},
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.jtrangeo.2022.103391}
+}
+
+@phdthesis{ahmed2022agent,
+  title={An Agent-Based Freight Business and Logistics Decisions Simulation: FREBUILDS},
+  author={Ahmed, Usman},
+  year={2022},
+  school={University of Toronto (Canada)}
+}
+
+@inproceedings{ahmed2022freight,
+  title={Freight Vehicle Type and Shipment Size Modelling Using Discrete Choice Methods},
+  author={Ahmed, Usman and Roorda, Matthew J},
+  booktitle={Canadian Transportation Research Forum 57th Annual Conference},
+  year={2022}
+}
+
+@inproceedings{ahmed2022establishment,
+  title={Establishment Location Choice Model Considering Firm Membership},
+  author={Ahmed, Usman and Hawkins, Jason and Roorda, Matthew J},
+  booktitle={Canadian Transportation Research Forum 57th Annual Conference},
+  year={2022}
+}
+
+@inproceedings{ahmed2022tour,
+  title={A Tour-Based Model using Continuous Approximation Method},
+  author={Ahmed, Usman and Nourinejad, Mehdi and Roorda, Matthew.},
+  booktitle={Transportation Research Board Annual Meeting},
+  year={2022}
+}
+
+@article{ahmed2020microscopic,
+  title={Microscopic activity sequence generation: a multiple correspondence analysis to explain travel behavior based on socio-demographic person attributes},
+  author={Ahmed, Usman and Moreno, Ana Tsui and Moeckel, Rolf},
+  journal={Transportation},
+  volume={48},
+  number={3},
+  pages={1481--1502},
+  year={2020},
+  publisher={Springer},
+  doi = {https://doi.org/10.1007/s11116-020-10103-1}
+}
+
+@article{xu2021eco,
+  title={An eco-score system incorporating driving behavior, vehicle characteristics, and traffic conditions},
+  author={Xu, Junshi and Tu, Ran and Ahmed, Usman and Amirjamshidi, Glareh and Hatzopoulou, Marianne and Roorda, Matthew J},
+  journal={Transportation Research Part D: Transport and Environment},
+  volume={95},
+  pages={102866},
+  year={2021},
+  publisher={Elsevier},
+  doi = {https://doi.org/10.1016/j.trd.2021.102866}
+}
+
+@inproceedings{ahmed2021freight,
+  title={Freight Vehicle Type Choice Model using Random Forest Classification},
+  author={Ahmed, Usman and Roorda, Matthew J},
+  booktitle={CTRF 56th Annual Conference-Ensuring Resilience in Transportation Systems: Anticipating and Responding to Pandemic, Climate, Demographic and Economic Changes},
+  year={2021}
+}
+
+@inproceedings{xu2021fairly,
+  title={How to Fairly Evaluate Eco-Driving? An Eco-Score System Developed Using Vehicle Characteristics and Traffic Conditions},
+  author={Xu, Junshi and Tu, Ran and Ahmed, Usman and Amirjamshidi, Glareh and Hatzopoulou, Marianne and Roorda, Matthew},
+  booktitle={CTRF 56th Annual Conference-Ensuring Resilience in Transportation Systems: Anticipating and Responding to Pandemic, Climate, Demographic and Economic Changes},
+  year={2021}
+}
+
+@mastersthesis{ahmed2018development,
+  title={Development of a microscopic acitivity sequence modeler},
+  author={Ahmed, Usman and Moeckel, Rolf and Chou, Ana Tsui Moreno},
+  school={Technical University of Munich},
+  year={2018},
+  pdf={https://www.bgu.tum.de/fileadmin/w00blj/msm/masterThesis/Ahmed_2018_rev.pdf}
+}
+
+@inproceedings{riveraevolving,
+  title={The Evolving Landscape of Urban Logistics: A Study of the Greater Toronto and Hamilton Area},
+  author={Rivera-Gonzalez, Carlos and Ahmed, Usman and Roorda, Matt},
+  booktitle={Book of Abstracts 5th VREF Conference on Urban Freight}
 }

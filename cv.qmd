@@ -6,8 +6,7 @@ page-layout: article
 
 <a class="cv-download" href="files/Usman_Ahmed_CV.pdf" target="_blank">Download PDF</a>
 
-<p class="note">The PDF above is the authoritative, up-to-date CV. The summary below is
-for quick reference — replace <code>files/Usman_Ahmed_CV.pdf</code> with your actual file.</p>
+<p class="note"></p>
 
 <hr class="rule">
 
@@ -16,21 +15,21 @@ for quick reference — replace <code>files/Usman_Ahmed_CV.pdf</code> with your 
 ::: {.row-list}
 ::: {.row}
 ::: {.row-meta}
-2023–present
+2025–present
 :::
 ::: {.row-content}
-### Assistant Professor
-Department of Civil & Environmental Engineering, [University Name]
+### Research Assistant Professor
+UT-Oak Ridge Innovation Institute, University of Tennessee, Knoxville
 :::
 :::
 
 ::: {.row}
 ::: {.row-meta}
-2021–2023
+2022–2024
 :::
 ::: {.row-content}
-### Postdoctoral Researcher
-[Institution]
+### Postdoctoral Research Fellow
+University of Toronto
 :::
 :::
 :::
@@ -40,33 +39,35 @@ Department of Civil & Environmental Engineering, [University Name]
 ::: {.row-list}
 ::: {.row}
 ::: {.row-meta}
-[Year]
+2022
 :::
 ::: {.row-content}
-### Ph.D., Civil Engineering — [Ph.D. Institution]
+### Ph.D., Transportation & Logistics — University of Toronto, Canada
 :::
 :::
 
 ::: {.row}
 ::: {.row-meta}
-[Year]
+2018
 :::
 ::: {.row-content}
-### M.S., Transportation Engineering — [M.S. Institution]
+### M.Sc., Transportation Systems — Technical University of Munich, Germany
 :::
 :::
 
 ::: {.row}
 ::: {.row-meta}
-[Year]
+2014
 :::
 ::: {.row-content}
-### B.S., Civil Engineering — [B.S. Institution]
+### B.E., Civil Engineering — National University of Sciences & Technology, Pakistan
 :::
 :::
 :::
 
+<!--
 <div class="section-label" style="margin-top:2.5rem;">Honors & Awards</div>
+
 
 ::: {.row-list}
 ::: {.row}
@@ -78,6 +79,7 @@ Department of Civil & Environmental Engineering, [University Name]
 :::
 :::
 
+
 ::: {.row}
 ::: {.row-meta}
 [Year]
@@ -87,6 +89,7 @@ Department of Civil & Environmental Engineering, [University Name]
 :::
 :::
 :::
+-->
 
 <div class="section-label" style="margin-top:2.5rem;">Grants & Funding</div>
 
@@ -94,6 +97,8 @@ Department of Civil & Environmental Engineering, [University Name]
 
 {{< include _includes/featured-projects.qmd >}}
 
+<!-- hidden: remove this wrapper div to restore Selected Publications & Teaching -->
+<div style="display:none;">
 <div class="section-label" style="margin-top:2.5rem;">Selected Publications</div>
 
 <p class="note">See <a href="publications.qmd">Publications</a> for the full list.</p>
@@ -105,16 +110,26 @@ Department of Civil & Environmental Engineering, [University Name]
 <p class="note">See <a href="teaching.qmd">Teaching</a> for course descriptions and
 student mentoring — CE 4xx Transportation Systems Analysis, CE 5xx Traffic Flow Theory &
 Simulation, CE 6xx Data-Driven Transportation Safety.</p>
+</div>
 
 <div class="section-label" style="margin-top:2.5rem;">Professional Service</div>
 
-- Member, Transportation Research Board (TRB) Committee on [Committee Name]
-- Reviewer: *Transportation Research Part C*, *Accident Analysis & Prevention*, *Journal
-  of Transportation Engineering*
-- Session Chair, [Conference Name], [Year]
+- Member - Transportation Research Board (TRB) Committee on Freight Data (AED13)
+- Member - Transportation & Development Institute, American Society of Civil Engineers (ASCE)
+- Reviewer: *Transportation Research Record*; *Transportation Research Part A, B, C & E*;
+  *Journal of Transport & Land Use*; *International Journal of Transportation Science &
+  Technology*; *Transportation Letters: The International Journal of Transportation
+  Research*; *Journal of Transport Geography*; *Research in Transportation Business &
+  Management*
 
+
+
+
+<!--
 <div class="section-label" style="margin-top:2.5rem;">Skills</div>
 
 **Programming** — Python, R, SQL
 **Simulation** — SUMO, VISSIM, Aimsun
 **Other** — GIS, GTFS/transit data pipelines, causal inference, machine learning
+-->
+

@@ -1,9 +1,0 @@
----
-title: "Paper accepted in Transportation Research Part C"
-date: 2026-04-02
----
-
-Our paper, "Corridor-level safety analytics using connected-vehicle trajectory data,"
-has been accepted for publication in *Transportation Research Part C: Emerging
-Technologies*. Congratulations to co-authors Jane Doe and Alex Smith. See
-[Publications](../publications.qmd) for the full citation.

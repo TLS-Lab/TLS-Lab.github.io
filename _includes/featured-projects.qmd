@@ -3,28 +3,28 @@
   Included on both index.qmd ("Featured Projects") and projects.qmd
   ("Ongoing" section) — update entries here once.
 -->
-::: {.row-list}
-::: {.row}
-::: {.row-meta}
-2025–2027
-[State Department of Transportation]
-:::
-::: {.row-content}
-### Connected-Vehicle Data for Work-Zone Safety <span class="tag">Ongoing</span>
-Developing real-time work-zone risk indicators from connected-vehicle trajectory and
-speed data, with a pilot deployment on [Highway/Corridor Name]. Principal Investigator.
-:::
-:::
-
-::: {.row}
-::: {.row-meta}
-2024–2027
-NSF Award #0000000
-:::
-::: {.row-content}
-### Equitable Microtransit Design for Mid-Sized Cities <span class="tag">Ongoing</span>
-Investigating how on-demand microtransit service design affects access for low-income
-and transit-dependent riders in three mid-sized U.S. cities. Co-Principal Investigator.
-:::
-:::
-:::
+<div class="projects-table-wrap">
+<table class="projects-table">
+<thead>
+<tr><th>Year</th><th>Funding Organization</th><th>Title</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>2025&ndash;2027</td>
+<td>Center for Regional and Rural Connected Communities, USDOT</td>
+<td>
+<div class="project-title">Techniques For Assessing Community Technology Readiness For Rural Development: Planning For Community Readiness Using Digital Twins</div>
+<div class="project-desc"></div>
+</td>
+</tr>
+<tr>
+<td>2025&ndash;2026</td>
+<td>Center for Freight Transportation for Efficient & Resilient Supply Chain, USDOT</td>
+<td>
+<div class="project-title">Spatial Modeling to Support Supply Chain Policymaking Across Metropolitan Areas In Tennessee</div>
+<div class="project-desc"></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>

@@ -3,10 +3,13 @@
 
 Runs as a Quarto project pre-render script (see _quarto.yml). Reads
 papers.bib and writes:
-  _includes/recent-publications.qmd       (entries with recent = {true})
-  _includes/pub-journal-articles.qmd      (@article)
+  _includes/recent-publications.qmd        (entries with recent = {true})
+  _includes/pub-journal-articles.qmd       (@article)
   _includes/pub-conference-proceedings.qmd (@inproceedings / @conference)
-  _includes/pub-reports.qmd               (@techreport / @phdthesis / @misc)
+  _includes/pub-preprints.qmd              (@preprint)
+  _includes/pub-patents.qmd                (@patent)
+  _includes/pub-thesis.qmd                 (@phdthesis / @mastersthesis)
+  _includes/pub-reports.qmd                (@techreport / @misc / @unpublished)
 
 Edit papers.bib, not the generated files -- they are overwritten on every
 render.
@@ -19,9 +22,9 @@ ROOT = Path(__file__).resolve().parent.parent
 BIB_PATH = ROOT / "papers.bib"
 INCLUDES_DIR = ROOT / "_includes"
 
-# Author name (in "Last, F." form, matching the bib author field) to bold
+# Author name, exactly as it appears in papers.bib author fields, to bold
 # as the site owner within author lists.
-SELF_NAME = "Ahmed, U."
+SELF_NAME = "Ahmed, Usman"
 
 GENERATED_HEADER = (
     "<!--\n"
@@ -145,9 +148,20 @@ def format_body(entry):
         tail = f" Prepared for {preparedfor}." if preparedfor else ""
         result = f'{authors} ({year}). *{title}.*{tail}'
 
-    elif etype == "phdthesis":
+    elif etype in ("phdthesis", "mastersthesis"):
+        label = "Doctoral dissertation" if etype == "phdthesis" else "Master's thesis"
         school = entry.get("school", "")
-        result = f'{authors} ({year}). *Doctoral dissertation: "{title}."* {school}.'
+        result = f'{authors} ({year}). *{label}: "{title}."* {school}.'
+
+    elif etype == "patent":
+        note = entry.get("note", "")
+        tail = f" {note}." if note else ""
+        result = f'{authors} ({year}). *{title}.*{tail}'
+
+    elif etype == "preprint":
+        note = entry.get("note", "")
+        tail = f" {note}." if note else ""
+        result = f'{authors} ({year}). {title}.{tail}'
 
     else:
         # Fallback for any other/misc type.
@@ -224,12 +238,18 @@ def main():
     recent = [e for e in entries if e.get("recent", "").lower() == "true"]
     journal = [e for e in entries if e["type"] == "article"]
     conference = [e for e in entries if e["type"] in ("inproceedings", "conference")]
-    reports = [e for e in entries if e["type"] in ("techreport", "phdthesis", "misc", "unpublished")]
+    preprints = [e for e in entries if e["type"] == "preprint"]
+    patents = [e for e in entries if e["type"] == "patent"]
+    thesis = [e for e in entries if e["type"] in ("phdthesis", "mastersthesis")]
+    reports = [e for e in entries if e["type"] in ("techreport", "misc", "unpublished")]
 
     INCLUDES_DIR.mkdir(exist_ok=True)
     write_include("recent-publications.qmd", recent)
     write_include("pub-journal-articles.qmd", journal)
     write_include("pub-conference-proceedings.qmd", conference)
+    write_include("pub-preprints.qmd", preprints)
+    write_include("pub-patents.qmd", patents)
+    write_include("pub-thesis.qmd", thesis)
     write_include("pub-reports.qmd", reports)
 
 

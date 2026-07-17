@@ -7,33 +7,32 @@ page-layout: article
 ::: {.split}
 ::: {.contact-block}
 ### Office
-[Building Name], Room [###]
-Department of Civil & Environmental Engineering
-[University Name]
-[Street Address]
-[City, State ZIP]
+309 Conference Center Building,\
+Center for Transportation Research\
+The University of Tennessee, Knoxville\
+600 Henley Street, Suite 309\
+Knoxville, TN 37996-4133
 :::
 
 ::: {.contact-block}
 ### Email & Phone
-[usman.ahmed@example.edu](mailto:usman.ahmed@example.edu)
-[+1 (555) 555-5555](tel:+15555555555)
+[uahmed@utk.edu](mailto:uahmed@utk.edu)
+
 :::
 :::
 
 ::: {.split}
 ::: {.contact-block}
 ### Office Hours
-Tuesdays & Thursdays, 2:00–4:00 PM
-(or by appointment — email to schedule)
+By appointment — please email to schedule
 :::
 
 ::: {.contact-block}
 ### Elsewhere
-[Google Scholar](https://scholar.google.com)
+[Google Scholar](https://scholar.google.com/citations?user=eiM9m1EAAAAJ&hl=en&oi=ao)
 [GitHub](https://github.com)
-[LinkedIn](https://linkedin.com)
-[ORCID](https://orcid.org)
+[LinkedIn](https://www.linkedin.com/in/uahmed16)
+[ORCID](https://orcid.org/0000-0003-4101-6650)
 :::
 :::
 
@@ -41,19 +40,13 @@ Tuesdays & Thursdays, 2:00–4:00 PM
 
 ## Prospective Students
 
-I welcome inquiries from prospective Ph.D. and M.S. students interested in traffic
-systems, transportation safety, or connected/automated vehicles. Please email me directly
-with:
+I welcome inquiries from prospective Ph.D. and M.S. students interested in transportation demand modeling, freight transporation, logistics, transportation safety, or connected/automated vehicles.
 
-- A brief description of your research interests and how they align with the
-  [Research](research.qmd) page
-- Your CV
-- Unofficial transcripts (if available)
 
-Please note I am generally not able to respond individually to general "do you have
-funding?" emails without this information included.
-
+<!--
 ## Media & Speaking Requests
 
 For media inquiries, invited talks, or podcast/interview requests, please reach out via
 email with details on the venue/outlet and topic.
+-->
+

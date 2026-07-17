@@ -1,9 +1,0 @@
----
-title: "NSF grant awarded for microtransit equity research"
-date: 2026-06-15
----
-
-Delighted to share that our project, *Equitable Microtransit Design for Mid-Sized
-Cities*, has been awarded funding by the National Science Foundation (Award #0000000).
-The three-year project will study on-demand microtransit service design in partnership
-with [Regional Transit Agency]. See the [Projects](../projects.qmd) page for details.

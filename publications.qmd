@@ -7,24 +7,37 @@ page-layout: article
 <!-- Entries below are generated from papers.bib -- add new papers there,
      not here. See _build/generate_publications.py. -->
 
-<p class="note">My name is in <span class="pub-self">bold</span> within author lists. See my
-<a href="https://scholar.google.com">Google Scholar</a> profile for citation metrics;
-contact me for a copy of any paper not linked below.</p>
+<p class="note">Please see my
+<a href="https://scholar.google.com/citations?user=eiM9m1EAAAAJ&hl=en&oi=ao">Google Scholar</a> profile for citation metrics;
+please contact me if you would like to learn more about our work.</p>
 
-<div class="section-label">Recent</div>
+## Patents
 
-{{< include _includes/recent-publications.qmd >}}
-
-<hr class="rule">
+{{< include _includes/pub-patents.qmd >}}
 
 ## Journal Articles
 
 {{< include _includes/pub-journal-articles.qmd >}}
 
-## Conference Proceedings
+## Conference Papers
 
 {{< include _includes/pub-conference-proceedings.qmd >}}
 
+## Preprints
+
+{{< include _includes/pub-preprints.qmd >}}
+
+
+
+## Thesis
+
+{{< include _includes/pub-thesis.qmd >}}
+
+
+
+<!-- hidden: remove this wrapper div to restore Reports & Working Papers -->
+<div style="display:none;">
 ## Reports & Working Papers
 
 {{< include _includes/pub-reports.qmd >}}
+</div>

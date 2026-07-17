@@ -5,18 +5,58 @@
 
 ::: {.pub-list}
 ::: {.pub-entry}
-<span class="pub-year">2025</span>
+<span class="pub-year">2024</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, U.</span> & Garcia, M. (2025). Evaluating mixed autonomy traffic at signalized intersections. *Proceedings of the 104th Transportation Research Board Annual Meeting*, Washington, D.C.</p>
-<div class="pub-links">[PDF](#) [Slides](#)</div>
+<p><span class="pub-self">Ahmed, Usman</span>, Le, Tho V, & Roorda, Matthew J (2024). An Urban Freight Model Considering Intra-firm and Supply Chain Relationships. *103rd Annual Meeting of the Transportation Research Board*.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2023</span>
 <div class="pub-body">
-<p>Novak, S. & <span class="pub-self">Ahmed, U.</span> (2023). Curb-space allocation under growing e-commerce delivery demand. *Proceedings of the IEEE Intelligent Transportation Systems Conference*, Bilbao, Spain.</p>
-<div class="pub-links">[PDF](#)</div>
+<p>Moreno, Ana Tsui, Nouli, Georgina, <span class="pub-self">Ahmed, Usman</span>, Schiffer, Maximilian, & Moeckel, Rolf (2023). Understanding the Impact of Life Events on Travel Behavior Change via Machine Learning. *Euro Working Group Transportation 2023*.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew. (2022). A Tour-Based Model using Continuous Approximation Method. *Transportation Research Board Annual Meeting*.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Hawkins, Jason, & Roorda, Matthew J (2022). Establishment Location Choice Model Considering Firm Membership. *Canadian Transportation Research Forum 57th Annual Conference*.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2022</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2022). Freight Vehicle Type and Shipment Size Modelling Using Discrete Choice Methods. *Canadian Transportation Research Forum 57th Annual Conference*.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2021</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2021). Freight Vehicle Type Choice Model using Random Forest Classification. *CTRF 56th Annual Conference-Ensuring Resilience in Transportation Systems: Anticipating and Responding to Pandemic, Climate, Demographic and Economic Changes*.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2021</span>
+<div class="pub-body">
+<p>Xu, Junshi, Tu, Ran, <span class="pub-self">Ahmed, Usman</span>, Amirjamshidi, Glareh, Hatzopoulou, Marianne, & Roorda, Matthew (2021). How to Fairly Evaluate Eco-Driving? An Eco-Score System Developed Using Vehicle Characteristics and Traffic Conditions. *CTRF 56th Annual Conference-Ensuring Resilience in Transportation Systems: Anticipating and Responding to Pandemic, Climate, Demographic and Economic Changes*.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">n.d.</span>
+<div class="pub-body">
+<p>Rivera-Gonzalez, Carlos, <span class="pub-self">Ahmed, Usman</span>, & Roorda, Matt (n.d.). The Evolving Landscape of Urban Logistics: A Study of the Greater Toronto and Hamilton Area. *Book of Abstracts 5th VREF Conference on Urban Freight*.</p>
 </div>
 :::
 :::

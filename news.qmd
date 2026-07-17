@@ -1,16 +1,41 @@
 ---
 title: "News"
-listing:
-  contents: news
-  sort: "date desc"
-  type: default
-  categories: false
-  date-format: "MMMM YYYY"
-  feed: true
 page-layout: article
 toc: false
 ---
 
-<p class="note">Updates on publications, grants, talks, and lab milestones. New items
-are added as individual files in the <code>news/</code> folder — this page and the
-homepage summary update automatically.</p>
+<!--
+  All news lives directly in this file -- no more one-file-per-item.
+  To add an update, paste a new block at the TOP (newest first) in this
+  exact shape:
+
+  ## Your Headline Here
+  *Month DD, YYYY*
+
+  Body paragraph(s).
+
+  <hr class="rule">
+
+  The homepage's "Latest News" teaser is auto-generated from the first three
+  entries in this file by _build/generate_news.py (see _includes/recent-news.qmd).
+  Keep entries in newest-first order so that teaser stays correct.
+-->
+
+
+<p class="note">Updates on publications, grants, talks, and lab milestones.</p>
+
+
+## Paper Published in Transportation Research Record
+*July 3, 2026*
+
+Our paper, "Residential Price Modeling Using Spatially Validated Machine Learning Methods: A Comparison Across Geographical Contexts" has been published in *Transportation Research Record*. Please see
+[Publications](publications.qmd) for the full citation.
+
+
+## Paper Published in Transportation Research Interdisciplinary Perspectives
+*March 18, 2026*
+
+Our paper, "Parking patterns of last-mile delivery vehicles: a comparison between light-duty trucks and electric cargo tricycles in downtown Toronto" has been published in *Transportation Research Interdisciplinary Perspectives*. Please see
+[Publications](publications.qmd) for the full citation.
+
+
