@@ -4,6 +4,8 @@ project:
   render:
     - "*.qmd"
     - "research/"
+  resources:
+    - "images/microhubs-thumb.jpg"
   pre-render:
     - _build/generate_publications.py
     - _build/generate_news.py
