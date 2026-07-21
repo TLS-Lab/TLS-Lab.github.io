@@ -193,7 +193,7 @@ section.page-section h2 {
 
 .hero-interests {
   font-size: 1.05rem;
-  max-width: 46ch;
+  max-width: 60ch;
   margin-bottom: 2rem;
 }
 
@@ -374,6 +374,26 @@ section.page-section h2 {
   margin: 0;
 }
 
+/* Square clickable tool card ------------------------------------------*/
+.tool-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  aspect-ratio: 1 / 1;
+  border: 1px solid var(--hairline);
+  padding: 1.5rem;
+  color: var(--ink);
+}
+.tool-card:hover {
+  border-color: var(--navy);
+  color: var(--navy);
+}
+.tool-card h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
 /* Publications -----------------------------------------------------*/
 .pub-entry {
   padding: 1.1rem 0;
@@ -461,6 +481,30 @@ section.page-section h2 {
   gap: 3rem;
 }
 
+/* Tool showcase — details left, media right (Modeling Tools) ---------*/
+.tool-showcase {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 3rem;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+.tool-showcase-details ol {
+  padding-left: 1.2rem;
+  margin: 0;
+}
+.tool-showcase-details li {
+  margin-bottom: 1rem;
+}
+.tool-showcase-details li:last-child {
+  margin-bottom: 0;
+}
+.tool-showcase-media video {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--hairline);
+}
+
 /* CV ------------------------------------------------------------------*/
 .cv-download {
   display: inline-block;
@@ -513,7 +557,8 @@ section.page-section h2 {
     gap: 0.4rem;
   }
   .split,
-  .split-narrow {
+  .split-narrow,
+  .tool-showcase {
     grid-template-columns: 1fr;
     gap: 2rem;
   }

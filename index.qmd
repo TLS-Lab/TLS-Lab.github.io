@@ -53,6 +53,36 @@ Dr. Usman Ahmed is a Research Assistant Professor at the UT-Oak Ridge Innovation
 
 ::: {.page-section}
 <div class="section-head">
+<div class="section-label">Modeling Tools</div>
+<a class="view-all" href="modeling-tools.qmd">All tools &rarr;</a>
+</div>
+
+### [Microhub and Cargo Cycle Planning Tool](modeling-tools.qmd#microhub-and-electric-cargo-cycle-planning-tool)
+
+::: {.tool-showcase}
+::: {.tool-showcase-details}
+1. **Microhub Sizing**: Estimates the number of microhubs required to serve the study
+   area.
+2. **Location Selection**: Identifies optimal microhub locations.
+3. **Service Area Assignment**: Assigns service areas to microhubs.
+4. **Fleet & Route Sizing**: Calculates the number of e-cargo cycles required at each microhub and the total tour distance.
+:::
+
+::: {.tool-showcase-media}
+```{=html}
+<video controls style="max-width:100%;" preload="metadata" poster="images/microhubs-thumb.jpg">
+<source src="videos/microhubs_demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+```
+:::
+:::
+:::
+
+<hr class="rule">
+
+::: {.page-section}
+<div class="section-head">
 <div class="section-label">Latest News</div>
 <a class="view-all" href="news.qmd">All news &rarr;</a>
 </div>
