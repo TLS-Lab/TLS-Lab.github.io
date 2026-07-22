@@ -505,24 +505,33 @@ section.page-section h2 {
   border: 1px solid var(--hairline);
 }
 
-/* Tool ribbon — pill-shaped CTA linking out to an external tool -------*/
-.tool-ribbon {
+/* Tool ribbon card — heading, description, arrow CTA -----------------*/
+.tool-ribbon-card {
+  border: 1px solid var(--hairline);
+  border-radius: 12px;
+  padding: 1.8rem;
+  background: var(--paper);
+}
+.tool-ribbon-card h4 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 0 0.6rem 0;
+}
+.tool-ribbon-card p {
+  color: var(--slate);
+  font-size: 0.92rem;
+  margin: 0 0 1.2rem 0;
+}
+.tool-ribbon-link {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  margin-top: 1rem;
-  padding: 0.55rem 1.2rem;
-  font-size: 0.78rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-weight: 500;
-  color: #fff !important;
-  background: var(--navy);
-  border-radius: 999px;
+  font-weight: 600;
+  color: var(--navy) !important;
   border-bottom: none !important;
 }
-.tool-ribbon:hover {
-  background: #0c1730;
+.tool-ribbon-link:hover {
+  color: #0c1730 !important;
 }
 
 /* CV ------------------------------------------------------------------*/

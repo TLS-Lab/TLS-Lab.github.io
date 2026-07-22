@@ -77,6 +77,31 @@ Your browser does not support the video tag.
 ```
 :::
 :::
+
+### [Tennessee Traffic Incident Analysis](modeling-tools.qmd#tennessee-traffic-incident-analysis)
+
+::: {.tool-showcase}
+::: {.tool-showcase-details}
+1. **Hotspot Analysis**: Identifies locations with elevated incident concentration across
+   the highway network.
+2. **Incident Severity Modeling**: Estimates the likely severity of incidents based on
+   roadway and traffic conditions.
+3. **Incident Clearance Time Modeling**: Predicts how long it will take to clear an
+   incident from the roadway.
+4. **Scenario Analysis**: Compares predicted incident severity and clearance time across
+   different scenarios.
+:::
+
+::: {.tool-showcase-media}
+```{=html}
+<div class="tool-ribbon-card">
+<h4>Highway Incident Analytics</h4>
+<p>Analyze highway incident data across Tennessee to uncover patterns, predict hotspots, and support data-driven safety and infrastructure decisions.</p>
+<a class="tool-ribbon-link" href="https://titan.motionintel.ai">Open Titan &rarr;</a>
+</div>
+```
+:::
+:::
 :::
 
 <hr class="rule">
