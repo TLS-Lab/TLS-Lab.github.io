@@ -505,6 +505,26 @@ section.page-section h2 {
   border: 1px solid var(--hairline);
 }
 
+/* Tool ribbon — pill-shaped CTA linking out to an external tool -------*/
+.tool-ribbon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 1rem;
+  padding: 0.55rem 1.2rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  color: #fff !important;
+  background: var(--navy);
+  border-radius: 999px;
+  border-bottom: none !important;
+}
+.tool-ribbon:hover {
+  background: #0c1730;
+}
+
 /* CV ------------------------------------------------------------------*/
 .cv-download {
   display: inline-block;
