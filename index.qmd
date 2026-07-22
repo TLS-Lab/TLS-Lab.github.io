@@ -78,7 +78,7 @@ Your browser does not support the video tag.
 :::
 :::
 
-### [Tennessee Traffic Incident Analysis](modeling-tools.qmd#tennessee-traffic-incident-analysis)
+### [Tennessee Highway Incident Analysis](modeling-tools.qmd#tennessee-highway-incident-analysis)
 
 ::: {.tool-showcase}
 ::: {.tool-showcase-details}

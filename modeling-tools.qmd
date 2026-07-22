@@ -33,7 +33,7 @@ The demonstration above illustrates the application of the tool to New York City
 
 <hr class="rule">
 
-### Tennessee Traffic Incident Analysis
+### Tennessee Highway Incident Analysis
 
 ::: {.tool-showcase}
 ::: {.tool-showcase-details}
