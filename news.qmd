@@ -25,6 +25,15 @@ toc: false
 <p class="note">Updates on publications, grants, talks, and lab milestones.</p>
 
 
+## Paper Published in Transportation Research Part A: Policy and Practice
+*July 22, 2026*
+
+Our paper, "How is online shopping reshaping activity patterns? Modeling activity behavior
+using discrete continuous models," co-authored with Katherine E. Asmussen, has been
+published in *Transportation Research Part A: Policy and Practice*. Please see
+[Publications](publications.qmd) for the full citation.
+
+
 ## Paper Published in Transportation Research Record
 *July 3, 2026*
 

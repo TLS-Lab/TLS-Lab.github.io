@@ -21,7 +21,7 @@
 ::: {.pub-entry}
 <span class="pub-year">2022</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew. (2022). A Tour-Based Model using Continuous Approximation Method. *Transportation Research Board Annual Meeting*.</p>
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2022). Freight Vehicle Type and Shipment Size Modelling Using Discrete Choice Methods. *Canadian Transportation Research Forum 57th Annual Conference*.</p>
 </div>
 :::
 
@@ -35,7 +35,7 @@
 ::: {.pub-entry}
 <span class="pub-year">2022</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2022). Freight Vehicle Type and Shipment Size Modelling Using Discrete Choice Methods. *Canadian Transportation Research Forum 57th Annual Conference*.</p>
+<p><span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew. (2022). A Tour-Based Model using Continuous Approximation Method. *Transportation Research Board Annual Meeting*.</p>
 </div>
 :::
 

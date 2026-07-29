@@ -6,6 +6,7 @@
 <div class="projects-table-wrap">
 <table class="projects-table">
 <tbody>
+<tr><td>July 22, 2026</td><td><a href="news.qmd">Paper Published in Transportation Research Part A: Policy and Practice</a></td></tr>
 <tr><td>July 3, 2026</td><td><a href="news.qmd">Paper Published in Transportation Research Record</a></td></tr>
 <tr><td>March 18, 2026</td><td><a href="news.qmd">Paper Published in Transportation Research Interdisciplinary Perspectives</a></td></tr>
 </tbody>

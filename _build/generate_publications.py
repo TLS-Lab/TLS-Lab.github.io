@@ -218,7 +218,7 @@ def sort_key(entry):
         year = int(entry.get("year", 0))
     except ValueError:
         year = 0
-    return (-year, entry.get("title", ""))
+    return -year
 
 
 def write_include(filename, entries):
