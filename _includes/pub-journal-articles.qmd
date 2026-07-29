@@ -8,7 +8,7 @@
 <span class="pub-year">2026</span>
 <div class="pub-body">
 <p>Asmussen, Katherine E. & <span class="pub-self">Ahmed, Usman</span> (2026). How is online shopping reshaping activity patterns? Modeling activity behavior using discrete continuous models. *Transportation Research Part A: Policy and Practice*, 212, 105177.</p>
-<div class="pub-links">[DOI](https://doi.org/10.1016/j.tra.2026.105177)</div>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.tra.2026.105177) [Free Download](https://authors.elsevier.com/c/1nVqD3Rd3vBGho)</div>
 </div>
 :::
 

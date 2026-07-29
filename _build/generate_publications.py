@@ -176,6 +176,7 @@ def format_body(entry):
 LINK_LABELS = [
     ("pdf", "PDF"),
     ("doi", "DOI"),
+    ("free", "Free Download"),
     ("data", "Data"),
     ("code", "Code"),
     ("slides", "Slides"),
