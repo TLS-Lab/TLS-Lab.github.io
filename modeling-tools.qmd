@@ -8,6 +8,36 @@ Software and modeling tools developed and maintained by the lab.
 
 <hr class="rule">
 
+### Transportation Modeling and Simulation
+
+::: {.tool-showcase}
+::: {.tool-showcase-details}
+1. **Regional Network Model**: Represents the Knoxville metropolitan road network,
+   including interstates (I-40, I-75, I-140), U.S. highways, and major arterials.
+2. **Demand Estimation**: Estimates origin-destination (OD) travel demand using observed
+   traffic count data.
+3. **Traffic Assignment**: Loads the estimated OD demand onto the network to estimate
+   link-level traffic volumes.
+4. **Congestion Assessment**: Computes volume-to-capacity (V/C) ratios to identify
+   corridors operating near or above capacity.
+5. **Scenario Evaluation**: Tests how demand growth, network changes, or operational
+   strategies affect congestion across the region.
+:::
+
+::: {.tool-showcase-media}
+```{=html}
+<img src="images/Knox.png" alt="Map of the Knoxville regional road network colored by volume-to-capacity ratio" style="max-width:100%;">
+```
+:::
+:::
+
+The map above shows simulated volume-to-capacity ratios across the Knoxville, Tennessee
+region. Congestion is concentrated along the I-40/I-75 corridor west of downtown and the
+northern approaches toward Powell and Halls, while outlying rural roads remain well
+under capacity.
+
+<hr class="rule">
+
 ### Microhub and Electric Cargo Cycle Planning Tool
 
 ::: {.tool-showcase}

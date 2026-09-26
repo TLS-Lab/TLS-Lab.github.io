@@ -78,6 +78,29 @@ Your browser does not support the video tag.
 :::
 :::
 
+### [Transportation Modeling and Simulation](modeling-tools.qmd#transportation-modeling-and-simulation)
+
+::: {.tool-showcase}
+::: {.tool-showcase-details}
+1. **Regional Network Model**: Represents the Knoxville metropolitan road network,
+   including interstates (I-40, I-75, I-140), U.S. highways, and major arterials.
+2. **Demand Estimation**: Estimates origin-destination (OD) travel demand using observed
+   traffic count data.
+3. **Traffic Assignment**: Loads the estimated OD demand onto the network to estimate
+   link-level traffic volumes.
+4. **Congestion Assessment**: Computes volume-to-capacity (V/C) ratios to identify
+   corridors operating near or above capacity.
+5. **Scenario Evaluation**: Tests how demand growth, network changes, or operational
+   strategies affect congestion across the region.
+:::
+
+::: {.tool-showcase-media}
+```{=html}
+<img src="images/Knox.png" alt="Map of the Knoxville regional road network colored by volume-to-capacity ratio" style="max-width:100%;">
+```
+:::
+:::
+
 ### [Tennessee Highway Incident Analysis](modeling-tools.qmd#tennessee-highway-incident-analysis)
 
 ::: {.tool-showcase}
