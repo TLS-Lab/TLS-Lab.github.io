@@ -6,9 +6,9 @@
 <div class="projects-table-wrap">
 <table class="projects-table">
 <tbody>
+<tr><td>October 31, 2026</td><td><a href="news.qmd">Paper Published in Journal of Transport Geography</a></td></tr>
+<tr><td>October 15, 2026</td><td><a href="news.qmd">Joined the Early-Career Editorial Board of the Journal of Intelligent Transportation Systems</a></td></tr>
 <tr><td>July 22, 2026</td><td><a href="news.qmd">Paper Published in Transportation Research Part A: Policy and Practice</a></td></tr>
-<tr><td>July 3, 2026</td><td><a href="news.qmd">Paper Published in Transportation Research Record</a></td></tr>
-<tr><td>March 18, 2026</td><td><a href="news.qmd">Paper Published in Transportation Research Interdisciplinary Perspectives</a></td></tr>
 </tbody>
 </table>
 </div>

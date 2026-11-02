@@ -76,9 +76,10 @@ Research Assistant Professor
 :::
 
 
-## Undergraduate Research Assistant
+## Undergraduate Research Assistants
 
 ::: {.row-list}
+
 ::: {.row}
 ::: {}
 <div class="row-photo-placeholder">Photo</div>
@@ -88,6 +89,17 @@ Research Assistant Professor
 
 :::
 :::
+
+::: {.row}
+::: {}
+<div class="row-photo-placeholder">Photo</div>
+:::
+::: {.row-content}
+### Nathan Sandoval
+
+:::
+:::
+
 :::
 
 

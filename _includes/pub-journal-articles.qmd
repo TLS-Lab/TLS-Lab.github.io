@@ -5,6 +5,14 @@
 
 ::: {.pub-list}
 ::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Rivera-Gonzalez, Carlos, & Roorda, Matthew J. (2027). Warehouse location choice modeling with supply chain and intra-firm interactions: A case study of the greater Golden horseshoe area of Canada. *Journal of Transport Geography*, 138, 104891.</p>
+<div class="pub-links">[DOI](https://doi.org/10.1016/j.jtrangeo.2026.104891)</div>
+</div>
+:::
+
+::: {.pub-entry}
 <span class="pub-year">2026</span>
 <div class="pub-body">
 <p>Asmussen, Katherine E. & <span class="pub-self">Ahmed, Usman</span> (2026). How is online shopping reshaping activity patterns? Modeling activity behavior using discrete continuous models. *Transportation Research Part A: Policy and Practice*, 212, 105177.</p>

@@ -114,6 +114,7 @@ Simulation, CE 6xx Data-Driven Transportation Safety.</p>
 
 <div class="section-label" style="margin-top:2.5rem;">Professional Service</div>
 
+- Member - Early-Career Editorial Board (ECEB), *Journal of Intelligent Transportation Systems* (JITS), 2026&ndash;present
 - Member - Transportation Research Board (TRB) Committee on Freight Data (AED13)
 - Member - Transportation & Development Institute, American Society of Civil Engineers (ASCE)
 - Reviewer: *Transportation Research Record*; *Transportation Research Part A, B, C & E*;

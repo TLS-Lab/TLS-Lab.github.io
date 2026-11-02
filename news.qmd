@@ -25,6 +25,22 @@ toc: false
 <p class="note">Updates on publications, grants, talks, and lab milestones.</p>
 
 
+## Paper Published in Journal of Transport Geography
+*October 31, 2026*
+
+Our paper, "Warehouse location choice modeling with supply chain and intra-firm interactions:
+A case study of the greater Golden horseshoe area of Canada," co-authored with Carlos
+Rivera-Gonzalez and Matthew J. Roorda, has been published in *Journal of Transport Geography*.
+Please see [Publications](publications.qmd) for the full citation.
+
+
+## Joined the Early-Career Editorial Board of the Journal of Intelligent Transportation Systems
+*October 15, 2026*
+
+I have joined the Early-Career Editorial Board (ECEB) of the *Journal of Intelligent
+Transportation Systems* (JITS).
+
+
 ## Paper Published in Transportation Research Part A: Policy and Practice
 *July 22, 2026*
 

@@ -44,7 +44,8 @@ Assistant Professor, [University Name]
 Mobility Systems Lab
 
 **Affiliations**
-Transportation Research Board (TRB)
+Transportation Research Board (TRB)<br>
+Early-Career Editorial Board, *Journal of Intelligent Transportation Systems*
 
 **Contact**
 [Get in touch &rarr;](contact.qmd)
