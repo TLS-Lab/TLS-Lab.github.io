@@ -5,58 +5,254 @@
 
 ::: {.pub-list}
 ::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Avram Flanagan, Galen, & Rashidi, Hesam (2027). Resilient Microhub Location and E-Cargo Cycle Allocation Model for Last-Mile Logistics. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Asmussen, Katherine, Haus, Samantha, Ro, Jin Wook, & <span class="pub-self">Ahmed, Usman</span> (2027). Assessing the Readiness for Cargo Cycle Deployment in Last-Mile Delivery Across Urban, Suburban, and Rural Contexts: A Case Study of Knox County, Tennessee. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Córdoba-Misas, Manuela, Asmussen, Katherine, <span class="pub-self">Ahmed, Usman</span>, & Calderon, Oriana (2027). Integrated Spatial Modeling for Freight Land-Use Diagnostics in Tennessee Metropolitan Areas. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Akash, Md Shafiul Islam, <span class="pub-self">Ahmed, Usman</span>, & Rivera-Gonzalez, Carlos (2027). The Lifespan of Logistics Service Facilities: Evidence from Three Decades of Data Across Six U.S. Metropolitan Areas. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Frelau, Timotéo, Klimczak, Jacob, Kiko, Mwendwa, <span class="pub-self">Ahmed, Usman</span>, Franklin, Meredith, & Roorda, Matthew (2027). Health Cost of Freight Noise in Urban Areas: A Case Study in Toronto. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Adeel, Muhammad, Sheikh, Usman, Khattak, Asad, & <span class="pub-self">Ahmed, Usman</span> (2027). A Digital Twin Planning Framework: Enabling Interactive Stakeholder Feedback in Transportation Models, Scenario Analysis, and Project Prioritization Decisions. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Kabir, Sharika, <span class="pub-self">Ahmed, Usman</span>, & Khattak, Asad (2027). Digital Twins for Rural Transportation Planning: A Systematic Review of Concepts, Architectures, and Rural Readiness Needs. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Liaqat Ali, Momina, <span class="pub-self">Ahmed, Usman</span>, & Li, Xueping (2027). From Causal Machine Learning to Optimal Deployment: An Overlap-Aware Framework for Freeway Service Patrol Allocation. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2027</span>
+<div class="pub-body">
+<p>Liaqat Ali, Momina, Sharmin, Aliza, Guo, Yan, <span class="pub-self">Ahmed, Usman</span>, He, Brian Yueshuai, & Li, Xueping (2027). Urban Transit Resilience Under Joint Demand and Supply Disruptions: A Multi-Scale Analysis of the New York City Subway. *106th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2027.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p>Saroj, Abhilasha, Govindu, Pranav, Sharma, Bharat, & <span class="pub-self">Ahmed, Usman</span> (2026). Adapting a Large Language Model Crash-Severity Pipeline to Tennessee: Performance Across Sampling Strategies. *4th ACM SIGSPATIAL International Workshop on Advances in Urban AI (UrbanAI '26)*, Riverside, California, November 3, 2026. Accepted for presentation.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Avram Flanagan, Galen, & Rashidi, Hesam (2026). Microhub Location Modeling under Disruptions. *73rd North American Meetings of the Regional Science Association International (RSAI)*, Philadelphia, Pennsylvania, November 11–14, 2026. Accepted for presentation.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p>Miller, Eric & <span class="pub-self">Ahmed, Usman</span> (2026). A Framework for Modeling Dependent-Serving Activity/Travel Behavior. *61st Annual Conference of the Canadian Transportation Research Forum*, Halifax, Nova Scotia, May 24–27, 2026.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Rivera-Gonzalez, Carlos, & Roorda, Matthew (2026). Warehouse Location Choice Model Considering Intra-Firm Interactions: A Case Study of the Greater Toronto Area. *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2026.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p>Calderon, Oriana & <span class="pub-self">Ahmed, Usman</span> (2026). Joint Modeling of Freight Mode Choice and Shipment Size Using Multi-Output Machine Learning. *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2026.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p>Asmussen, Katherine & <span class="pub-self">Ahmed, Usman</span> (2026). How is Online Shopping Reshaping Activity Patterns? Modeling of Activity Behavior using Discrete Continuous Models. *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2026.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2026</span>
+<div class="pub-body">
+<p>Shoman, Maged & <span class="pub-self">Ahmed, Usman</span> (2026). VISIONASSIST: A Comprehensive Framework for Assistive Navigation for Visually Impaired Pedestrians. *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 11–15, 2026.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p>Rashidi, Hesam, <span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew (2025). Data-driven Tactical Design in Last-mile Logistics: Considering Driver Preferences in Tour Duration Estimation. *104th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 5–9, 2025.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Mousavi, Kianoush, Zhang, Shang, & Roorda, Matthew (2025). Noise Impacts of Off-Peak Deliveries in the Greater Toronto Area: Community Noise Survey and Social Justice Analysis. *104th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 5–9, 2025.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Hawkins, Jason (2025). Residential Price Modeling with Spatial and Aspatial Cross-Validation: A Comparison Across Geographic Contexts. *104th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 5–9, 2025.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p>Saeedi, Milad, Xu, Junshi, <span class="pub-self">Ahmed, Usman</span>, Roorda, Matthew, & Hatzopoulou, Marianne (2025). Urban Air Pollution Data Collection, Mapping, and Prediction using Mobile Sensors Installed on Courier Trucks. *104th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 5–9, 2025.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2025</span>
+<div class="pub-body">
+<p>Amaral, Julia, Holguín-Veras, José, Roorda, Matthew, …, <span class="pub-self">Ahmed, Usman</span>, & … (2025). Freight Trip Generation in Metropolitan Areas: An International Perspective. *104th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 5–9, 2025.</p>
+</div>
+:::
+
+::: {.pub-entry}
 <span class="pub-year">2024</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span>, Le, Tho V, & Roorda, Matthew J (2024). An Urban Freight Model Considering Intra-firm and Supply Chain Relationships. *103rd Annual Meeting of the Transportation Research Board*.</p>
+<p><span class="pub-self">Ahmed, Usman</span>, Le, Tho, & Roorda, Matthew (2024). An Urban Freight Model Considering Intra-firm and Supply Chain Relationships. *103rd Annual Meeting of the Transportation Research Board*, Washington, D.C., January 7–11, 2024.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2024</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Xu, Junshi, Ghizzawi, Farah, Saeedi, Milad, Guseva, Lisa, Hatzopoulou, Marianne, & Roorda, Matthew (2024). E-cargo Tricycles for Urban Goods Movement: A Comprehensive Analysis of a Pilot Study in Toronto. *103rd Annual Meeting of the Transportation Research Board*, Washington, D.C., January 7–11, 2024.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2024</span>
+<div class="pub-body">
+<p>Rivera-Gonzalez, Carlos, <span class="pub-self">Ahmed, Usman</span>, & Roorda, Matthew (2024). The Evolving Landscape of Urban Logistics: A Study of the Greater Golden Horseshoe. *103rd Annual Meeting of the Transportation Research Board*, Washington, D.C., January 7–11, 2024.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2024</span>
+<div class="pub-body">
+<p>Ghizzawi, Farah, <span class="pub-self">Ahmed, Usman</span>, & Roorda, Matthew (2024). Parking Patterns of Last-Mile Delivery Vehicles: A Comparison Between Light-Duty Trucks and Electric Cargo Tricycles. *103rd Annual Meeting of the Transportation Research Board*, Washington, D.C., January 7–11, 2024.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2023</span>
 <div class="pub-body">
-<p>Moreno, Ana Tsui, Nouli, Georgina, <span class="pub-self">Ahmed, Usman</span>, Schiffer, Maximilian, & Moeckel, Rolf (2023). Understanding the Impact of Life Events on Travel Behavior Change via Machine Learning. *Euro Working Group Transportation 2023*.</p>
+<p><span class="pub-self">Ahmed, Usman</span> & Moeckel, Rolf (2023). Analysis of Travel Behavior Change Triggered by Life Events. *16th World Conference on Transport Research*, Montreal, Canada, July 17–21, 2023.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew (2023). Freight Tour Modeling: A Novel Optimization Based Approach. *16th World Conference on Transport Research*, Montreal, Canada, July 17–21, 2023.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span>, Hawkins, Jason, & Roorda, Matthew (2023). Firm Location Choice Model Considering Firm Membership. *102nd Annual Meeting of the Transportation Research Board*, Washington, D.C., January 8–12, 2023.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2023</span>
+<div class="pub-body">
+<p><span class="pub-self">Ahmed, Usman</span> & Moeckel, Rolf (2023). Impact of Life Events on Incremental Travel Behavior Change. *102nd Annual Meeting of the Transportation Research Board*, Washington, D.C., January 8–12, 2023.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2022</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2022). Freight Vehicle Type and Shipment Size Modelling Using Discrete Choice Methods. *Canadian Transportation Research Forum 57th Annual Conference*.</p>
+<p><span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew (2022). A Tour-Based Model using Continuous Approximation Method. *101st Annual Meeting of the Transportation Research Board*, Washington, D.C., January 9–13, 2022.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2022</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span>, Hawkins, Jason, & Roorda, Matthew J (2022). Establishment Location Choice Model Considering Firm Membership. *Canadian Transportation Research Forum 57th Annual Conference*.</p>
+<p><span class="pub-self">Ahmed, Usman</span>, Tu, Ran, Xu, Junshi, Amirjamshidi, Glareh, Hatzopoulou, Marianne, & Roorda, Matthew (2022). GPS Based Traffic Condition Classification using Machine Learning Approaches. *101st Annual Meeting of the Transportation Research Board*, Washington, D.C., January 9–13, 2022.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2022</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span>, Nourinejad, Mehdi, & Roorda, Matthew. (2022). A Tour-Based Model using Continuous Approximation Method. *Transportation Research Board Annual Meeting*.</p>
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew (2022). Joint and Sequential Models for Freight Vehicle Type and Shipment Size Choice. *101st Annual Meeting of the Transportation Research Board*, Washington, D.C., January 9–13, 2022.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2021</span>
 <div class="pub-body">
-<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew J (2021). Freight Vehicle Type Choice Model using Random Forest Classification. *CTRF 56th Annual Conference-Ensuring Resilience in Transportation Systems: Anticipating and Responding to Pandemic, Climate, Demographic and Economic Changes*.</p>
+<p><span class="pub-self">Ahmed, Usman</span>, Hawkins, Jason, & Roorda, Matthew (2021). Establishment Location Choice Model Considering Intrafirm Interactions. *68th Annual North American Meetings of the Regional Science Association International (NARSC – RSAI)*, Denver, Colorado, November 8–13, 2021.</p>
 </div>
 :::
 
 ::: {.pub-entry}
 <span class="pub-year">2021</span>
 <div class="pub-body">
-<p>Xu, Junshi, Tu, Ran, <span class="pub-self">Ahmed, Usman</span>, Amirjamshidi, Glareh, Hatzopoulou, Marianne, & Roorda, Matthew (2021). How to Fairly Evaluate Eco-Driving? An Eco-Score System Developed Using Vehicle Characteristics and Traffic Conditions. *CTRF 56th Annual Conference-Ensuring Resilience in Transportation Systems: Anticipating and Responding to Pandemic, Climate, Demographic and Economic Changes*.</p>
+<p><span class="pub-self">Ahmed, Usman</span> & Roorda, Matthew (2021). Modelling Carrier Type and Vehicle Type Choice of Small and Medium Size Firms. *100th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 2–29, 2021.</p>
 </div>
 :::
 
 ::: {.pub-entry}
-<span class="pub-year">n.d.</span>
+<span class="pub-year">2021</span>
 <div class="pub-body">
-<p>Rivera-Gonzalez, Carlos, <span class="pub-self">Ahmed, Usman</span>, & Roorda, Matt (n.d.). The Evolving Landscape of Urban Logistics: A Study of the Greater Toronto and Hamilton Area. *Book of Abstracts 5th VREF Conference on Urban Freight*.</p>
+<p>Xu, Junshi, Tu, Ran, <span class="pub-self">Ahmed, Usman</span>, Amirjamshidi, Glareh, Hatzopoulou, Marianne, & Roorda, Matthew (2021). A Scoring System to Evaluate Eco-Driving Using Driving Behaviour and Vehicle Characteristics for Usage-based Insurance. *100th Annual Meeting of the Transportation Research Board*, Washington, D.C., January 2–29, 2021.</p>
+</div>
+:::
+
+::: {.pub-entry}
+<span class="pub-year">2019</span>
+<div class="pub-body">
+<p>Hawkins, Jason, <span class="pub-self">Ahmed, Usman</span>, Habib, Khandker M. Nurul, & Roorda, Matthew (2019). Measuring the Process of Urban Gentrification: A Composite Measurement of the Gentrification Process in Toronto. *66th Annual North American Meetings of the Regional Science Association International (NARSC – RSAI)*, Pittsburgh, Pennsylvania, November 13–16, 2019.</p>
 </div>
 :::
 :::

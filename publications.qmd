@@ -23,6 +23,10 @@ please contact me if you would like to learn more about our work.</p>
 
 {{< include _includes/pub-conference-proceedings.qmd >}}
 
+## Conference Abstracts
+
+{{< include _includes/pub-conference-abstracts.qmd >}}
+
 ## Preprints
 
 {{< include _includes/pub-preprints.qmd >}}

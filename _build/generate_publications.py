@@ -6,6 +6,7 @@ papers.bib and writes:
   _includes/recent-publications.qmd        (entries with recent = {true})
   _includes/pub-journal-articles.qmd       (@article)
   _includes/pub-conference-proceedings.qmd (@inproceedings / @conference)
+  _includes/pub-conference-abstracts.qmd   (@abstract)
   _includes/pub-preprints.qmd              (@preprint)
   _includes/pub-patents.qmd                (@patent)
   _includes/pub-thesis.qmd                 (@phdthesis / @mastersthesis)
@@ -136,12 +137,14 @@ def format_body(entry):
         venue = ", ".join(parts)
         result = f"{authors} ({year}). {title}. {venue}."
 
-    elif etype in ("inproceedings", "conference"):
+    elif etype in ("inproceedings", "conference", "abstract"):
         parts = [f"*{entry['booktitle']}*"] if "booktitle" in entry else []
         if "address" in entry:
             parts.append(entry["address"])
         venue = ", ".join(parts)
-        result = f"{authors} ({year}). {title}. {venue}."
+        note = entry.get("note", "")
+        tail = f" {note}." if note else ""
+        result = f"{authors} ({year}). {title}. {venue}.{tail}"
 
     elif etype == "techreport":
         preparedfor = entry.get("preparedfor")
@@ -169,8 +172,9 @@ def format_body(entry):
 
     # Collapse accidental double periods (e.g. an author initial or an
     # abbreviated venue like "D.C." landing right before a sentence-ending
-    # period).
-    return re.sub(r"\.{2,}", ".", result)
+    # period), and drop the period after a title ending in "?" or "!".
+    result = re.sub(r"\.{2,}", ".", result)
+    return re.sub(r"([?!])\.", r"\1", result)
 
 
 LINK_LABELS = [
@@ -239,6 +243,7 @@ def main():
     recent = [e for e in entries if e.get("recent", "").lower() == "true"]
     journal = [e for e in entries if e["type"] == "article"]
     conference = [e for e in entries if e["type"] in ("inproceedings", "conference")]
+    abstracts = [e for e in entries if e["type"] == "abstract"]
     preprints = [e for e in entries if e["type"] == "preprint"]
     patents = [e for e in entries if e["type"] == "patent"]
     thesis = [e for e in entries if e["type"] in ("phdthesis", "mastersthesis")]
@@ -248,6 +253,7 @@ def main():
     write_include("recent-publications.qmd", recent)
     write_include("pub-journal-articles.qmd", journal)
     write_include("pub-conference-proceedings.qmd", conference)
+    write_include("pub-conference-abstracts.qmd", abstracts)
     write_include("pub-preprints.qmd", preprints)
     write_include("pub-patents.qmd", patents)
     write_include("pub-thesis.qmd", thesis)
